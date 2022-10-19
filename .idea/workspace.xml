@@ -4,26 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="08705620-3cc0-439a-8fe9-46dfecadd001" name="Changes" comment="Third commit">
-      <change afterPath="$PROJECT_DIR$/labo_4/opdracht_5/hobbys.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/labo_4/opdracht_5/images/11325.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/labo_4/opdracht_5/images/Editted image 1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/labo_4/opdracht_5/images/Editted image 2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/labo_4/opdracht_5/images/Editted image 3.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/labo_4/opdracht_5/images/Editted image webstorm 1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/labo_4/opdracht_5/images/Editted image webstorm 2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/labo_4/opdracht_5/images/Editted image webstorm 3.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/labo_4/opdracht_5/images/Foto-bergen.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/labo_4/opdracht_5/images/Hotel California Cover.jfif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/labo_4/opdracht_5/images/Marvel-Comics-logo.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/labo_4/opdracht_5/images/Screenshot-2022-10-16-103128.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/labo_4/opdracht_5/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/labo_4/opdracht_5/likes.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/labo_3/homepage/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/labo_3/homepage/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/labo_4/opdrachten_1_2.html" beforeDir="false" afterPath="$PROJECT_DIR$/labo_4/opdrachten_1_2.html" afterDir="false" />
-    </list>
+    <list default="true" id="08705620-3cc0-439a-8fe9-46dfecadd001" name="Changes" comment="Fourth commit" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -96,7 +77,7 @@
       <workItem from="1665479511260" duration="196000" />
       <workItem from="1665576414197" duration="5381000" />
       <workItem from="1665844631269" duration="3814000" />
-      <workItem from="1665908937681" duration="1481000" />
+      <workItem from="1665908937681" duration="2174000" />
     </task>
     <task id="LOCAL-00001" summary="Second commit">
       <created>1665306611023</created>
@@ -119,7 +100,14 @@
       <option name="project" value="LOCAL" />
       <updated>1665581729524</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Fourth commit">
+      <created>1665910599289</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1665910599289</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -138,6 +126,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Second commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="Second commit" />
+    <MESSAGE value="Fourth commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="Fourth commit" />
   </component>
 </project>
