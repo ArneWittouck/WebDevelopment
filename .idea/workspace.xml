@@ -4,15 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="08705620-3cc0-439a-8fe9-46dfecadd001" name="Changes" comment="Fifth commit">
-      <change afterPath="$PROJECT_DIR$/labo_5/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/labo_5/opdracht_3.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/labo_5/opdracht_4.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/labo_5/opdracht_6/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/labo_5/opdracht_6/styles/stijl.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/labo_5/opdracht_7.html" afterDir="false" />
+    <list default="true" id="08705620-3cc0-439a-8fe9-46dfecadd001" name="Changes" comment="Sixth commit">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -94,7 +87,7 @@
       <workItem from="1666622524487" duration="33000" />
       <workItem from="1666623988324" duration="875000" />
       <workItem from="1666686258360" duration="27000" />
-      <workItem from="1666711326772" duration="4823000" />
+      <workItem from="1666711326772" duration="5690000" />
     </task>
     <task id="LOCAL-00001" summary="Second commit">
       <created>1665306611023</created>
@@ -131,7 +124,14 @@
       <option name="project" value="LOCAL" />
       <updated>1666186282544</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="Sixth commit">
+      <created>1666719040307</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1666719040307</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -152,6 +152,7 @@
     <MESSAGE value="Second commit" />
     <MESSAGE value="Fourth commit" />
     <MESSAGE value="Fifth commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="Fifth commit" />
+    <MESSAGE value="Sixth commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="Sixth commit" />
   </component>
 </project>
