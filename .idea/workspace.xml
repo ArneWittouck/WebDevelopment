@@ -4,7 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="08705620-3cc0-439a-8fe9-46dfecadd001" name="Changes" comment="Extra Hompepage changes commit" />
+    <list default="true" id="08705620-3cc0-439a-8fe9-46dfecadd001" name="Changes" comment="Extra Hompepage changes commit">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Styles_homepage/Style_homepage.css" beforeDir="false" afterPath="$PROJECT_DIR$/Styles_homepage/Style_homepage.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -96,6 +100,10 @@
       <workItem from="1666796605895" duration="2154000" />
       <workItem from="1666799199993" duration="296000" />
       <workItem from="1666857971137" duration="3009000" />
+      <workItem from="1667057154768" duration="356000" />
+      <workItem from="1667057532770" duration="91000" />
+      <workItem from="1667057921270" duration="2987000" />
+      <workItem from="1667069667971" duration="3352000" />
     </task>
     <task id="LOCAL-00001" summary="Second commit">
       <created>1665306611023</created>
