@@ -1,10 +1,47 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AnalysisUIOptions">
+    <option name="SCOPE_TYPE" value="3" />
+  </component>
   <component name="AutoImportSettings">
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="08705620-3cc0-439a-8fe9-46dfecadd001" name="Changes" comment="Extra Hompepage changes 2" />
+    <list default="true" id="08705620-3cc0-439a-8fe9-46dfecadd001" name="Changes" comment="Extra Hompepage changes 2">
+      <change afterPath="$PROJECT_DIR$/CSS_labo_3/Opdracht_2/Styles/Style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CSS_labo_3/Opdracht_2/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CSS_labo_3/Opdracht_Nature_Blog/Styles/Style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CSS_labo_3/Opdracht_Nature_Blog/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CSS_labo_3/Opdracht_homepage_CSS/Styles/Style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CSS_labo_3/Opdracht_homepage_CSS/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CSS_labo_3/Opdracht_kalender/Styles/Style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CSS_labo_3/Opdracht_kalender/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CSS_labo_3/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Styles_homepage/Style_homepage.css" beforeDir="false" afterPath="$PROJECT_DIR$/Styles_homepage/Style_homepage.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/labo_1_CSS/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/CSS_labo_1/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/labo_1_CSS/opdracht_1.html" beforeDir="false" afterPath="$PROJECT_DIR$/CSS_labo_1/opdracht_1.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/labo_1_CSS/opdracht_3.html" beforeDir="false" afterPath="$PROJECT_DIR$/CSS_labo_1/opdracht_3.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/labo_1_CSS/opdracht_4.html" beforeDir="false" afterPath="$PROJECT_DIR$/CSS_labo_1/opdracht_4.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/labo_1_CSS/opdracht_6/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/CSS_labo_1/opdracht_6/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/labo_1_CSS/opdracht_6/styles/stijl.css" beforeDir="false" afterPath="$PROJECT_DIR$/CSS_labo_1/opdracht_6/styles/stijl.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/labo_1_CSS/opdracht_7.html" beforeDir="false" afterPath="$PROJECT_DIR$/CSS_labo_1/opdracht_7.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/labo_2_CSS/Opdracht_1/Styles/Style.css" beforeDir="false" afterPath="$PROJECT_DIR$/CSS_labo_2/Opdracht_1/Styles/Style.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/labo_2_CSS/Opdracht_1/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/CSS_labo_2/Opdracht_1/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/labo_2_CSS/Opdracht_3/Styles/Style.css" beforeDir="false" afterPath="$PROJECT_DIR$/CSS_labo_2/Opdracht_3/Styles/Style.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/labo_2_CSS/Opdracht_3/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/CSS_labo_2/Opdracht_3/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/labo_2_CSS/Opdracht_4/Styles/Style.css" beforeDir="false" afterPath="$PROJECT_DIR$/CSS_labo_2/Opdracht_4/Styles/Style.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/labo_2_CSS/Opdracht_4/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/CSS_labo_2/Opdracht_4/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/labo_2_CSS/Opdracht_5/Images/Link-icon.webp" beforeDir="false" afterPath="$PROJECT_DIR$/CSS_labo_2/Opdracht_5/Images/Link-icon.webp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/labo_2_CSS/Opdracht_5/Styles/Style.css" beforeDir="false" afterPath="$PROJECT_DIR$/CSS_labo_2/Opdracht_5/Styles/Style.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/labo_2_CSS/Opdracht_5/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/CSS_labo_2/Opdracht_5/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/labo_2_CSS/Opdracht_6/Images/Checked box.png" beforeDir="false" afterPath="$PROJECT_DIR$/CSS_labo_2/Opdracht_6/Images/Checked box.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/labo_2_CSS/Opdracht_6/Images/Unchecked box.png" beforeDir="false" afterPath="$PROJECT_DIR$/CSS_labo_2/Opdracht_6/Images/Unchecked box.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/labo_2_CSS/Opdracht_6/Styles/Style.css" beforeDir="false" afterPath="$PROJECT_DIR$/CSS_labo_2/Opdracht_6/Styles/Style.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/labo_2_CSS/Opdracht_6/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/CSS_labo_2/Opdracht_6/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/labo_2_CSS/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/CSS_labo_2/index.html" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -13,8 +50,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="CSS File" />
         <option value="HTML File" />
+        <option value="CSS File" />
       </list>
     </option>
   </component>
@@ -44,6 +81,7 @@
     &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
     &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
     &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
     &quot;run.code.analysis.last.selected.profile&quot;: &quot;pProject Default&quot;,
     &quot;settings.editor.selected.configurable&quot;: &quot;project.propVCSSupport.ChangelistConflict&quot;,
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
@@ -100,6 +138,13 @@
       <workItem from="1667057532770" duration="91000" />
       <workItem from="1667057921270" duration="2987000" />
       <workItem from="1667069667971" duration="3413000" />
+      <workItem from="1667113768395" duration="5000" />
+      <workItem from="1667147609289" duration="218000" />
+      <workItem from="1667392831066" duration="406000" />
+      <workItem from="1667987425367" duration="1142000" />
+      <workItem from="1668000308305" duration="6543000" />
+      <workItem from="1668264134941" duration="13819000" />
+      <workItem from="1668321439783" duration="8889000" />
     </task>
     <task id="LOCAL-00001" summary="Second commit">
       <created>1665306611023</created>

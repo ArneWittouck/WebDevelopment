@@ -1,0 +1,105 @@
+table {
+    border-collapse: collapse;
+    text-align: left;
+    width: 100%;
+    font: normal 12px/150% Arial, Helvetica, sans-serif;
+    background: #fff;
+    overflow: hidden;
+    border: 10px solid #00496E;
+    -webkit-border-radius: 20px;
+    -moz-border-radius: 20px;
+    border-radius: 20px;
+}
+
+table td, .datagrid table th {
+    padding: 10px 20px;
+}
+
+table thead th {
+    background: -webkit-gradient(linear, left top, left bottom, color-stop(0.05, #00496E), color-stop(1, #00496E));
+    background: -moz-linear-gradient(to bottom, #00496E 5%, #00496E 100%);
+    filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#00496E', endColorstr='#00496E');
+    background-color: #00496E;
+    color: #FFFFFF;
+    font-size: 19px;
+    font-weight: bold;
+    border-left: 1px solid #0070A8;
+}
+
+table thead th:first-child {
+    border: none;
+}
+
+table tbody td {
+    color: #00496B;
+    border-left: 1px solid #E1EEF4;
+    font-size: 15px;
+    font-weight: normal;
+}
+
+table tbody .alt td {
+    background: #E1EEF4;
+    color: #00496B;
+}
+
+table tbody td.onbekend {
+    background-color: #e50000;
+    color: white;
+}
+
+table tbody td:first-child {
+    border-left: none;
+}
+
+table tbody tr:last-child td {
+    border-bottom: none;
+}
+
+table tfoot td div {
+    border-top: 1px solid #00496E;
+    background: #E1EEF4;
+}
+
+table tfoot td {
+    padding: 0;
+    font-size: 15px
+}
+
+table tfoot td div {
+    padding: 5px;
+}
+
+table tfoot td ul {
+    margin: 0;
+    padding: 0;
+    list-style: none;
+    text-align: right;
+}
+
+table tfoot li {
+    display: inline;
+}
+
+table tfoot li a {
+    text-decoration: none;
+    display: inline-block;
+    padding: 2px 8px;
+    margin: 1px;
+    color: #FFFFFF;
+    border: 1px solid #006699;
+    -webkit-border-radius: 3px;
+    -moz-border-radius: 3px;
+    border-radius: 3px;
+    background: -webkit-gradient(linear, left top, left bottom, color-stop(0.05, #006699), color-stop(1, #00557F));
+    background: -moz-linear-gradient(to bottom, #006699 5%, #00557F 100%);
+    filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#006699', endColorstr='#00557F');
+    background-color: #006699;
+}
+
+table tfoot ul.active, table tfoot ul a:hover {
+    text-decoration: none;
+    border-color: #006699;
+    color: #FFFFFF;
+    background-color: #00557F;
+}
+

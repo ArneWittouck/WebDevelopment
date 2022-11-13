@@ -1,0 +1,44 @@
+header.upper > h1{
+    font-size: 3em;
+    font-weight: bold;
+    color: white;
+    background-image: url("../Images/header.jpg");
+    background-repeat: no-repeat;
+    margin: 0 auto;
+    padding: 10px 0 40px 10px;
+}
+body {
+    width: 1200px;
+    margin: 10px auto;
+    font-family: Arial, serif;
+}
+nav {
+    background-color: rgb(53, 56, 56);
+    padding: 3px 3px;
+}
+nav > a {
+    color: rgb(67, 232, 142);
+    text-decoration: none;
+    padding: 5px;
+}
+article {
+    background-color: rgb(239, 235, 235);
+}
+article > header > h1 {
+    margin-top: 5px;
+    text-decoration: underline;
+    color: rgb(53, 56, 56);
+    padding-top: 25px;
+    font-size: 1.5em;
+    font-weight: bold;
+    margin-left: 5px;
+}
+p {
+    margin-left: 5px;
+}
+footer > a {
+    margin-left: 5px;
+}
+body > footer {
+    margin-top: 10px;
+}
