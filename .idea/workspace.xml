@@ -7,7 +7,13 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="08705620-3cc0-439a-8fe9-46dfecadd001" name="Changes" comment="Gastles Opdracht commit 4" />
+    <list default="true" id="08705620-3cc0-439a-8fe9-46dfecadd001" name="Changes" comment="Gastles Opdracht commit 4">
+      <change beforePath="$PROJECT_DIR$/Gastles_Opdracht_1/frontendmentorprofilecardBeginSituatie/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Gastles_Opdracht_1/frontendmentorprofilecardBeginSituatie/.idea/frontendmentorprofilecardBeginSituatie.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Gastles_Opdracht_1/frontendmentorprofilecardBeginSituatie/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Gastles_Opdracht_1/frontendmentorprofilecardBeginSituatie/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Gastles_Opdracht_1/frontendmentorprofilecardBeginSituatie/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/Gastles_Opdracht_1/frontendmentorprofilecardBeginSituatie/style.css" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -22,7 +28,7 @@
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/Gastles_Opdracht_1/frontendmentorprofilecardBeginSituatie" />
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
@@ -123,7 +129,7 @@
       <workItem from="1669210010938" duration="128000" />
       <workItem from="1669210172250" duration="67000" />
       <workItem from="1669210271460" duration="536000" />
-      <workItem from="1669210824891" duration="2733000" />
+      <workItem from="1669210824891" duration="2896000" />
     </task>
     <task id="LOCAL-00001" summary="Second commit">
       <created>1665306611023</created>
