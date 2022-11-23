@@ -7,7 +7,20 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="08705620-3cc0-439a-8fe9-46dfecadd001" name="Changes" comment="Gastles Opdracht commit 3" />
+    <list default="true" id="08705620-3cc0-439a-8fe9-46dfecadd001" name="Changes" comment="Gastles Opdracht commit 4">
+      <change afterPath="$PROJECT_DIR$/CSS_labo_4/Images/block.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CSS_labo_4/Images/inline.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CSS_labo_4/Images/inline_block.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CSS_labo_4/Images/opdr2_aanElkaar.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CSS_labo_4/Images/opdr2_wit.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CSS_labo_4/Opdracht_1/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CSS_labo_4/Opdracht_2/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CSS_labo_4/Opdracht_3/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CSS_labo_4/Style/Style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CSS_labo_4/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -22,7 +35,7 @@
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/Gastles_Opdracht_1/frontendmentorprofilecardBeginSituatie" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
@@ -35,24 +48,24 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "DefaultHtmlFileTemplate": "HTML File",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "C:/Users/arnew/Documents/GitHub/WebDevelopment",
-    "list.type.of.created.stylesheet": "CSS",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "run.code.analysis.last.selected.profile": "pProject Default",
-    "settings.editor.selected.configurable": "project.propVCSSupport.ChangelistConflict",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;DefaultHtmlFileTemplate&quot;: &quot;HTML File&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/arnew/Documents/GitHub/WebDevelopment&quot;,
+    &quot;list.type.of.created.stylesheet&quot;: &quot;CSS&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;run.code.analysis.last.selected.profile&quot;: &quot;pProject Default&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;project.propVCSSupport.ChangelistConflict&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\arnew\Documents\GitHub\WebDevelopment\labo_4\opdracht_5\images" />
@@ -119,6 +132,11 @@
       <workItem from="1669186061144" duration="636000" />
       <workItem from="1669197028355" duration="33000" />
       <workItem from="1669197499061" duration="1007000" />
+      <workItem from="1669209546328" duration="368000" />
+      <workItem from="1669210010938" duration="128000" />
+      <workItem from="1669210172250" duration="67000" />
+      <workItem from="1669210271460" duration="536000" />
+      <workItem from="1669210824891" duration="2385000" />
     </task>
     <task id="LOCAL-00001" summary="Second commit">
       <created>1665306611023</created>
@@ -246,7 +264,14 @@
       <option name="project" value="LOCAL" />
       <updated>1669198491145</updated>
     </task>
-    <option name="localTasksCounter" value="19" />
+    <task id="LOCAL-00019" summary="Gastles Opdracht commit 4">
+      <created>1669209738706</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1669209738707</updated>
+    </task>
+    <option name="localTasksCounter" value="20" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -276,6 +301,7 @@
     <MESSAGE value="Gastles Opdracht commit" />
     <MESSAGE value="Gastles Opdracht commit 2" />
     <MESSAGE value="Gastles Opdracht commit 3" />
-    <option name="LAST_COMMIT_MESSAGE" value="Gastles Opdracht commit 3" />
+    <MESSAGE value="Gastles Opdracht commit 4" />
+    <option name="LAST_COMMIT_MESSAGE" value="Gastles Opdracht commit 4" />
   </component>
 </project>
