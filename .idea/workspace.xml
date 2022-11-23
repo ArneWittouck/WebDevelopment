@@ -7,7 +7,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="08705620-3cc0-439a-8fe9-46dfecadd001" name="Changes" comment="Gastles Opdracht commit" />
+    <list default="true" id="08705620-3cc0-439a-8fe9-46dfecadd001" name="Changes" comment="Gastles Opdracht commit 2">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -22,7 +24,7 @@
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/Gastles_Opdracht_1/frontendmentorprofilecardBeginSituatie" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
@@ -115,6 +117,8 @@
       <workItem from="1668682201091" duration="43000" />
       <workItem from="1668692034140" duration="287000" />
       <workItem from="1669152675439" duration="1399000" />
+      <workItem from="1669154116527" duration="297000" />
+      <workItem from="1669186061144" duration="294000" />
     </task>
     <task id="LOCAL-00001" summary="Second commit">
       <created>1665306611023</created>
@@ -221,7 +225,14 @@
       <option name="project" value="LOCAL" />
       <updated>1669153979227</updated>
     </task>
-    <option name="localTasksCounter" value="16" />
+    <task id="LOCAL-00016" summary="Gastles Opdracht commit 2">
+      <created>1669154361597</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1669154361597</updated>
+    </task>
+    <option name="localTasksCounter" value="17" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -249,6 +260,7 @@
     <MESSAGE value="CSS Labo 3 Commit 2" />
     <MESSAGE value="CSS Labo 3 Commit 3" />
     <MESSAGE value="Gastles Opdracht commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="Gastles Opdracht commit" />
+    <MESSAGE value="Gastles Opdracht commit 2" />
+    <option name="LAST_COMMIT_MESSAGE" value="Gastles Opdracht commit 2" />
   </component>
 </project>
