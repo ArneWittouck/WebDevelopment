@@ -7,20 +7,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="08705620-3cc0-439a-8fe9-46dfecadd001" name="Changes" comment="Gastles Opdracht commit 4">
-      <change afterPath="$PROJECT_DIR$/CSS_labo_4/Images/block.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CSS_labo_4/Images/inline.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CSS_labo_4/Images/inline_block.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CSS_labo_4/Images/opdr2_aanElkaar.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CSS_labo_4/Images/opdr2_wit.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CSS_labo_4/Opdracht_1/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CSS_labo_4/Opdracht_2/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CSS_labo_4/Opdracht_3/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CSS_labo_4/Style/Style.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CSS_labo_4/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-    </list>
+    <list default="true" id="08705620-3cc0-439a-8fe9-46dfecadd001" name="Changes" comment="Gastles Opdracht commit 4" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -136,7 +123,7 @@
       <workItem from="1669210010938" duration="128000" />
       <workItem from="1669210172250" duration="67000" />
       <workItem from="1669210271460" duration="536000" />
-      <workItem from="1669210824891" duration="2385000" />
+      <workItem from="1669210824891" duration="2733000" />
     </task>
     <task id="LOCAL-00001" summary="Second commit">
       <created>1665306611023</created>
