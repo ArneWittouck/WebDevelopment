@@ -32,3 +32,14 @@ nav {
     display: flex;
     justify-content: center;
 }
+section {
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+}
+div {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    grid-template-rows: repeat(2, 1em);
+}
