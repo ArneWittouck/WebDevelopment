@@ -7,32 +7,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="08705620-3cc0-439a-8fe9-46dfecadd001" name="Changes" comment="Gastles Opdracht commit 4">
-      <change afterPath="$PROJECT_DIR$/CSS_labo_4/Opdracht_4/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CSS_labo_4/Opdracht_5/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CSS_labo_4/Opdracht_Cocktail_bar/Styles/Style Cocktail bar.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CSS_labo_4/Opdracht_Cocktail_bar/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CSS_labo_4/Opdracht_Lorem_Ipsum/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CSS_labo_4/Opdracht_Lorem_Ipsum_extra_space/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CSS_labo_4/Styles/Style Lorem extra space.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CSS_labo_4/Styles/Style Lorem.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CSS_labo_4/Styles/Style.css" afterDir="false" />
+    <list default="true" id="08705620-3cc0-439a-8fe9-46dfecadd001" name="Changes" comment="CSS Labo 4 commit 2">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CSS_labo_3/Opdracht_Nature_Blog/Styles/Style.css" beforeDir="false" afterPath="$PROJECT_DIR$/CSS_labo_3/Opdracht_Nature_Blog/Styles/Style.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CSS_labo_4/Opdracht_1/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/CSS_labo_4/Opdracht_1/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CSS_labo_4/Opdracht_2/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/CSS_labo_4/Opdracht_2/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CSS_labo_4/Opdracht_3/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/CSS_labo_4/Opdracht_3/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CSS_labo_4/Style/Style.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/CSS_labo_4/Temporary/css deel 4 voorbeelden positionering/.idea/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/CSS_labo_4/Voorbeelden/css deel 4 voorbeelden positionering/.idea/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CSS_labo_4/Temporary/css deel 4 voorbeelden positionering/.idea/css deel 4 voorbeelden positionering.iml" beforeDir="false" afterPath="$PROJECT_DIR$/CSS_labo_4/Voorbeelden/css deel 4 voorbeelden positionering/.idea/css deel 4 voorbeelden positionering.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CSS_labo_4/Temporary/css deel 4 voorbeelden positionering/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/CSS_labo_4/Voorbeelden/css deel 4 voorbeelden positionering/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CSS_labo_4/Temporary/css deel 4 voorbeelden positionering/styles.css" beforeDir="false" afterPath="$PROJECT_DIR$/CSS_labo_4/Voorbeelden/css deel 4 voorbeelden positionering/styles.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CSS_labo_4/Temporary/css deel 4 voorbeelden positionering/voorbeeld1.html" beforeDir="false" afterPath="$PROJECT_DIR$/CSS_labo_4/Voorbeelden/css deel 4 voorbeelden positionering/voorbeeld1.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CSS_labo_4/Temporary/css deel 4 voorbeelden positionering/voorbeeld2.html" beforeDir="false" afterPath="$PROJECT_DIR$/CSS_labo_4/Voorbeelden/css deel 4 voorbeelden positionering/voorbeeld2.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CSS_labo_4/Temporary/css deel 4 voorbeelden positionering/voorbeeld3.html" beforeDir="false" afterPath="$PROJECT_DIR$/CSS_labo_4/Voorbeelden/css deel 4 voorbeelden positionering/voorbeeld3.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CSS_labo_4/Temporary/css deel 4 voorbeelden positionering/voorbeeld4.html" beforeDir="false" afterPath="$PROJECT_DIR$/CSS_labo_4/Voorbeelden/css deel 4 voorbeelden positionering/voorbeeld4.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CSS_labo_4/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/CSS_labo_4/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Gastles_Opdracht_1/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/Gastles_Opdracht_1/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CSS_labo_4/Opdracht_Lorem_Ipsum/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/CSS_labo_4/Opdracht_Lorem_Ipsum/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -154,7 +131,7 @@
       <workItem from="1669210824891" duration="5317000" />
       <workItem from="1669465490018" duration="1905000" />
       <workItem from="1669493595298" duration="3942000" />
-      <workItem from="1669538601209" duration="7604000" />
+      <workItem from="1669538601209" duration="8358000" />
     </task>
     <task id="LOCAL-00001" summary="Second commit">
       <created>1665306611023</created>
@@ -289,7 +266,21 @@
       <option name="project" value="LOCAL" />
       <updated>1669209738707</updated>
     </task>
-    <option name="localTasksCounter" value="20" />
+    <task id="LOCAL-00020" summary="CSS Labo 4 commit 1">
+      <created>1669546614583</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1669546614583</updated>
+    </task>
+    <task id="LOCAL-00021" summary="CSS Labo 4 commit 2">
+      <created>1669546638554</created>
+      <option name="number" value="00021" />
+      <option name="presentableId" value="LOCAL-00021" />
+      <option name="project" value="LOCAL" />
+      <updated>1669546638554</updated>
+    </task>
+    <option name="localTasksCounter" value="22" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -320,6 +311,8 @@
     <MESSAGE value="Gastles Opdracht commit 2" />
     <MESSAGE value="Gastles Opdracht commit 3" />
     <MESSAGE value="Gastles Opdracht commit 4" />
-    <option name="LAST_COMMIT_MESSAGE" value="Gastles Opdracht commit 4" />
+    <MESSAGE value="CSS Labo 4 commit 1" />
+    <MESSAGE value="CSS Labo 4 commit 2" />
+    <option name="LAST_COMMIT_MESSAGE" value="CSS Labo 4 commit 2" />
   </component>
 </project>
