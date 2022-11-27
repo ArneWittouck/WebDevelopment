@@ -1,0 +1,98 @@
+header  {
+    display: flex;
+    justify-content: center;
+}
+
+body {
+    width: 95%;
+    margin: 0 auto;
+}
+
+h1 {
+    font-family: Verdana, serif;
+    font-size: 150%;
+}
+
+h2 {
+    font-family: Arial, serif;
+    font-size: 130%;
+}
+
+h1, h2 {
+    color: #007e7e;
+}
+
+header > p > img {
+    width: 400px;
+}
+
+header > p {
+    margin: 0;
+}
+
+main {
+    display: grid;
+    grid-template-columns: 70% 1fr;
+}
+
+.rechts {
+    float: right;
+    border: solid rgb(167, 206, 206) 3px;
+    order: 2;
+    padding: 10px;
+    text-align: center;
+    background-image: url("../begin_cocktail_bar/images/cocktail.gif");
+    background-repeat: repeat-x;
+    background-size: 50px;
+}
+
+.rechts > h1 {
+    color: black;
+}
+
+.rechts > h2 {
+    color: indianred;
+}
+
+.rechts > p > a:hover {
+    background-color: brown;
+}
+
+.rechts > p > a {
+    color: #444444;
+}
+
+p {
+    font-family: Helvetica, serif;
+    font-size: 1.2em;
+}
+
+#guarantee {
+    background-color: #a7cece;
+    color: #444444;
+    padding: 20px 30px 20px 50px;
+    margin: 30px;
+    border: white dotted;
+    background-image: url("../begin_cocktail_bar/images/background.gif");
+    background-repeat: no-repeat;
+    background-size: 50px;
+
+}
+
+section {
+    margin-right: 30px;
+}
+
+section > article > p > a {
+    color: #444444;
+}
+
+footer {
+    display: flex;
+    justify-content: center;
+    text-align: center;
+}
+
+footer > p {
+    font-size: 0.6em;
+}

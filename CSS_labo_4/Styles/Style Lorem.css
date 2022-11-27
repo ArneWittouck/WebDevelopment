@@ -1,0 +1,16 @@
+section {
+    border: solid black 1px;
+    padding: 10px;
+    box-sizing: border-box;
+    width: 50%;
+    display: table-cell;
+}
+
+div {
+    box-sizing: content-box;
+}
+
+h1 {
+    display: flex;
+    justify-content: center;
+}

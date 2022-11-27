@@ -3,6 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <title>Opdracht 3 index</title>
+    <link href="../Styles/Style.css" rel="stylesheet" type="text/css">
 </head>
 <body>
 <header>
@@ -11,6 +12,20 @@
 <div>
     <h2>Waarom staat de tekst in de blokken horizontaal gecentreerd?</h2>
     <p>Omdat er in het CSS bestand "text-align: center;" staat voor alle div's.</p>
+    <h2>Ga na dat vertical-align:middle er niet voor zorgt dat de tekst verticaal gecentreerd wordt.<br>
+        Wat doet vertical-align dan wel?</h2>
+    <p>Vertical-align heeft geen effect op text, maar wel op andere elementen.<br>
+        Dat zorgt er dan voor dat die elementen verticaal, dus onder elkaar komen te staan.</p>
+    <h2>Wat is de ‘simpele’ manier om een één enkele regel tekst verticaal te centreren?</h2>
+    <p>Bijvoorbeeld:</p>
+    <p>body first-child {<br>
+    line-height: 120%;<br>
+    }</p>
+    <h2>Welke truc wordt vaak gebruikt om meerdere regels verticaal te centreren?</h2>
+    <p>Display: table-cell;<br>
+        Vertical-align: middle;</p>
+    <h2>Waarom krijgt de regel voor class 'tall' voorrang?</h2>
+    <p>Omdat deze specifieker is dan de class 'area'.</p>
 </div>
 </body>
 </html>

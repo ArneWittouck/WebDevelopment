@@ -1,0 +1,13 @@
+div > img {
+    width: 400px;
+    height: 200px;
+}
+h1 {
+    font-size: 2em;
+}
+
+a, h1 {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}

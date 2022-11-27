@@ -8,11 +8,31 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="08705620-3cc0-439a-8fe9-46dfecadd001" name="Changes" comment="Gastles Opdracht commit 4">
-      <change beforePath="$PROJECT_DIR$/Gastles_Opdracht_1/frontendmentorprofilecardBeginSituatie/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Gastles_Opdracht_1/frontendmentorprofilecardBeginSituatie/.idea/frontendmentorprofilecardBeginSituatie.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Gastles_Opdracht_1/frontendmentorprofilecardBeginSituatie/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Gastles_Opdracht_1/frontendmentorprofilecardBeginSituatie/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Gastles_Opdracht_1/frontendmentorprofilecardBeginSituatie/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/Gastles_Opdracht_1/frontendmentorprofilecardBeginSituatie/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CSS_labo_4/Opdracht_4/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CSS_labo_4/Opdracht_5/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CSS_labo_4/Opdracht_Cocktail_bar/Styles/Style Cocktail bar.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CSS_labo_4/Opdracht_Cocktail_bar/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CSS_labo_4/Opdracht_Lorem_Ipsum/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CSS_labo_4/Opdracht_Lorem_Ipsum_extra_space/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CSS_labo_4/Styles/Style Lorem extra space.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CSS_labo_4/Styles/Style Lorem.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CSS_labo_4/Styles/Style.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CSS_labo_3/Opdracht_Nature_Blog/Styles/Style.css" beforeDir="false" afterPath="$PROJECT_DIR$/CSS_labo_3/Opdracht_Nature_Blog/Styles/Style.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CSS_labo_4/Opdracht_1/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/CSS_labo_4/Opdracht_1/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CSS_labo_4/Opdracht_2/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/CSS_labo_4/Opdracht_2/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CSS_labo_4/Opdracht_3/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/CSS_labo_4/Opdracht_3/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CSS_labo_4/Style/Style.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CSS_labo_4/Temporary/css deel 4 voorbeelden positionering/.idea/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/CSS_labo_4/Voorbeelden/css deel 4 voorbeelden positionering/.idea/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CSS_labo_4/Temporary/css deel 4 voorbeelden positionering/.idea/css deel 4 voorbeelden positionering.iml" beforeDir="false" afterPath="$PROJECT_DIR$/CSS_labo_4/Voorbeelden/css deel 4 voorbeelden positionering/.idea/css deel 4 voorbeelden positionering.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CSS_labo_4/Temporary/css deel 4 voorbeelden positionering/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/CSS_labo_4/Voorbeelden/css deel 4 voorbeelden positionering/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CSS_labo_4/Temporary/css deel 4 voorbeelden positionering/styles.css" beforeDir="false" afterPath="$PROJECT_DIR$/CSS_labo_4/Voorbeelden/css deel 4 voorbeelden positionering/styles.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CSS_labo_4/Temporary/css deel 4 voorbeelden positionering/voorbeeld1.html" beforeDir="false" afterPath="$PROJECT_DIR$/CSS_labo_4/Voorbeelden/css deel 4 voorbeelden positionering/voorbeeld1.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CSS_labo_4/Temporary/css deel 4 voorbeelden positionering/voorbeeld2.html" beforeDir="false" afterPath="$PROJECT_DIR$/CSS_labo_4/Voorbeelden/css deel 4 voorbeelden positionering/voorbeeld2.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CSS_labo_4/Temporary/css deel 4 voorbeelden positionering/voorbeeld3.html" beforeDir="false" afterPath="$PROJECT_DIR$/CSS_labo_4/Voorbeelden/css deel 4 voorbeelden positionering/voorbeeld3.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CSS_labo_4/Temporary/css deel 4 voorbeelden positionering/voorbeeld4.html" beforeDir="false" afterPath="$PROJECT_DIR$/CSS_labo_4/Voorbeelden/css deel 4 voorbeelden positionering/voorbeeld4.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CSS_labo_4/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/CSS_labo_4/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Gastles_Opdracht_1/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/Gastles_Opdracht_1/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -22,13 +42,13 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="CSS File" />
         <option value="HTML File" />
+        <option value="CSS File" />
       </list>
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/Gastles_Opdracht_1/frontendmentorprofilecardBeginSituatie" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
@@ -47,7 +67,7 @@
     &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/arnew/Documents/GitHub/WebDevelopment&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/arnew/Documents/GitHub/WebDevelopment/CSS_labo_4/Styles&quot;,
     &quot;list.type.of.created.stylesheet&quot;: &quot;CSS&quot;,
     &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
     &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
@@ -61,6 +81,8 @@
 }</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\arnew\Documents\GitHub\WebDevelopment\CSS_labo_4\Styles" />
+      <recent name="C:\Users\arnew\Documents\GitHub\WebDevelopment\CSS_labo_4" />
       <recent name="C:\Users\arnew\Documents\GitHub\WebDevelopment\labo_4\opdracht_5\images" />
       <recent name="C:\Users\arnew\Documents\GitHub\WebDevelopment\labo_4\opdracht_5" />
     </key>
@@ -129,7 +151,10 @@
       <workItem from="1669210010938" duration="128000" />
       <workItem from="1669210172250" duration="67000" />
       <workItem from="1669210271460" duration="536000" />
-      <workItem from="1669210824891" duration="2896000" />
+      <workItem from="1669210824891" duration="5317000" />
+      <workItem from="1669465490018" duration="1905000" />
+      <workItem from="1669493595298" duration="3942000" />
+      <workItem from="1669538601209" duration="7604000" />
     </task>
     <task id="LOCAL-00001" summary="Second commit">
       <created>1665306611023</created>

@@ -1,0 +1,20 @@
+section {
+    border: solid black 1px;
+    padding: 10px;
+    box-sizing: border-box;
+    width: 100%;
+    display: table-cell;
+    margin: 10px;
+}
+
+div {
+    box-sizing: content-box;
+    display: grid;
+    grid-column-gap: 10px;
+    grid-template-columns: 1fr 1fr 0;
+}
+
+h1 {
+    display: flex;
+    justify-content: center;
+}
