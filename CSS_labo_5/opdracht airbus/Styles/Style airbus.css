@@ -1,0 +1,128 @@
+body {
+    width: 960px;
+    margin: 0 auto;
+    background-image: url("../fotos/pagebackground.png");
+    background-repeat: repeat-y;
+    background-color: #e6e6e6;
+    background-position: center;
+    font-family: Arial, serif;
+}
+
+header {
+    height: 200px;
+    background-image: url("../fotos/bgsky3.jpg");
+    text-align: center;
+    position: relative;
+    background-repeat: no-repeat;
+}
+
+header > img {
+    right: 90px;
+    bottom: 60px;
+    position: absolute;
+}
+
+header > h1 {
+    color: darkblue;
+    font-size: 300%;
+    font-weight: bold;
+    font-style: italic;
+    margin: 0;
+}
+
+header > h2 {
+    color: darkblue;
+    font-size: 240%;
+}
+
+nav.rechts {
+    box-sizing: border-box;
+    float: right;
+    text-align: center;
+    width: 250px;
+    background-color: #dddddd;
+    border: #999999 1px solid;
+}
+
+nav.rechts > h3 {
+    background-color: blue;
+    color: white;
+    font-size: 120%;
+    text-align: center;
+}
+
+nav.rechts > p {
+    color: #666666;
+    font-size: 90%;
+    margin: 0 10px 0 10px;
+}
+
+main {
+    width: 700px;
+}
+
+div.introduction > p {
+    margin: 20px 30px 20px 0;
+}
+
+div.logo > img {
+    margin: 20px 20px 0 20px;
+}
+
+div.above {
+    display: flex;
+}
+
+div.introduction > p > span {
+    color: blue;
+    font-weight: bold;
+    font-style: italic;
+}
+
+div.gallery {
+    background-color: #999999;
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    padding: 10px;
+}
+
+div.foto > img {
+    size: 180px 180px;
+    background-color: white;
+    padding: 10px;
+    border: dotted #999999 2px;
+    margin: 10px;
+}
+
+footer {
+    background-color: #666666;
+    display: flex;
+}
+
+li {
+    line-height: 2em;
+    color: white;
+    text-align: left;
+}
+
+div.block {
+    margin-left: 120px;
+}
+
+li > a {
+    color: white;
+}
+
+li > a:hover {
+    color: red;
+}
+
+body:last-child {
+    text-align: center;
+}
+
+
+
+
+
+

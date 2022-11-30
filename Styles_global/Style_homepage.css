@@ -1,18 +1,23 @@
 body {
     background-color: #EDF2F4;
+    margin: 0;
 }
+
 header {
     background-color: #2B2D42;
     padding: 2px 4px;
     text-align: center;
 }
+
 h1 {
     font-family: "Arial", serif;
     color: white;
     font-size: 3em;
 }
-.button {
-    border: none;
+
+a {
+    border: solid black 3px;
+    border-radius: 10px;
     background-color: #2B2D42;
     color: white;
     font-family: "Arial", serif;
@@ -20,26 +25,46 @@ h1 {
     text-align: center;
     margin: 2px 4px;
     font-size: 16px;
-    cursor: pointer;
+    text-decoration: none;
+    font-weight: bold;
 }
+
+a:hover {
+    background-color: #EDF2F4;
+    color: black;
+    border: solid black 3px;
+}
+
 h2 {
     font-family: "Arial", serif;
     font-size: 1.8em;
     display: flex;
     justify-content: center;
 }
+
 nav {
     display: flex;
     justify-content: center;
 }
+
 section {
     display: flex;
     justify-content: center;
     flex-direction: column;
 }
+
 div {
-    display: flex;
-    flex-direction: row;
-    justify-content: center;
-    grid-template-rows: repeat(2, 1em);
+    display: grid;
+    grid-template-columns: repeat(2, 130px);
+    margin: 0 auto;
+}
+
+footer {
+    text-align: center;
+    background-color: #dddddd;
+}
+
+footer > p {
+    color: #666666;
+    margin-bottom: 0;
 }
