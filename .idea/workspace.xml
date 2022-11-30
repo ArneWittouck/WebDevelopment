@@ -7,23 +7,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="08705620-3cc0-439a-8fe9-46dfecadd001" name="Changes" comment="CSS Labo 4 commit 4">
-      <change afterPath="$PROJECT_DIR$/CSS_labo_5/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CSS_labo_5/opdracht airbus/Styles/Style airbus.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CSS_labo_5/positioneren_image_begin/positioneren_image_begin/Styles/Style positioneren images.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Styles_global/Style_subpages.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CSS_labo_1/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/CSS_labo_1/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CSS_labo_2/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/CSS_labo_2/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CSS_labo_3/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/CSS_labo_3/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CSS_labo_4/Opdracht_Cocktail_bar/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/CSS_labo_4/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/CSS_labo_4/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Gastles_Opdracht_1/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/Gastles_Opdracht_1/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Styles_homepage/Style_homepage.css" beforeDir="false" afterPath="$PROJECT_DIR$/Styles_global/Style_homepage.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/labo_3/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/labo_3/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/labo_4/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/labo_4/index.html" afterDir="false" />
-    </list>
+    <list default="true" id="08705620-3cc0-439a-8fe9-46dfecadd001" name="Changes" comment="CSS Labo 5 commit 1" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -146,7 +130,7 @@
       <workItem from="1669493595298" duration="3942000" />
       <workItem from="1669538601209" duration="9189000" />
       <workItem from="1669814506469" duration="6771000" />
-      <workItem from="1669825319837" duration="7570000" />
+      <workItem from="1669825319837" duration="7684000" />
     </task>
     <task id="LOCAL-00001" summary="Second commit">
       <created>1665306611023</created>
@@ -309,7 +293,14 @@
       <option name="project" value="LOCAL" />
       <updated>1669547357542</updated>
     </task>
-    <option name="localTasksCounter" value="24" />
+    <task id="LOCAL-00024" summary="CSS Labo 5 commit 1">
+      <created>1669834447681</created>
+      <option name="number" value="00024" />
+      <option name="presentableId" value="LOCAL-00024" />
+      <option name="project" value="LOCAL" />
+      <updated>1669834447681</updated>
+    </task>
+    <option name="localTasksCounter" value="25" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -344,6 +335,7 @@
     <MESSAGE value="CSS Labo 4 commit 2" />
     <MESSAGE value="CSS Labo 4 commit 3" />
     <MESSAGE value="CSS Labo 4 commit 4" />
-    <option name="LAST_COMMIT_MESSAGE" value="CSS Labo 4 commit 4" />
+    <MESSAGE value="CSS Labo 5 commit 1" />
+    <option name="LAST_COMMIT_MESSAGE" value="CSS Labo 5 commit 1" />
   </component>
 </project>
