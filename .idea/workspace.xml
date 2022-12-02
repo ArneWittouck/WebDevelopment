@@ -7,7 +7,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="08705620-3cc0-439a-8fe9-46dfecadd001" name="Changes" comment="CSS Labo 5 commit 1" />
+    <list default="true" id="08705620-3cc0-439a-8fe9-46dfecadd001" name="Changes" comment="CSS Labo 5 commit 2">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CSS_labo_5/opdracht airbus/Styles/Style airbus.css" beforeDir="false" afterPath="$PROJECT_DIR$/CSS_labo_5/opdracht airbus/Styles/Style airbus.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Styles_global/Style_homepage.css" beforeDir="false" afterPath="$PROJECT_DIR$/Styles_global/Style_homepage.css" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -131,6 +135,9 @@
       <workItem from="1669538601209" duration="9189000" />
       <workItem from="1669814506469" duration="6771000" />
       <workItem from="1669825319837" duration="7684000" />
+      <workItem from="1669835290476" duration="310000" />
+      <workItem from="1669917633840" duration="206000" />
+      <workItem from="1670013389114" duration="328000" />
     </task>
     <task id="LOCAL-00001" summary="Second commit">
       <created>1665306611023</created>
@@ -300,7 +307,14 @@
       <option name="project" value="LOCAL" />
       <updated>1669834447681</updated>
     </task>
-    <option name="localTasksCounter" value="25" />
+    <task id="LOCAL-00025" summary="CSS Labo 5 commit 2">
+      <created>1669835578076</created>
+      <option name="number" value="00025" />
+      <option name="presentableId" value="LOCAL-00025" />
+      <option name="project" value="LOCAL" />
+      <updated>1669835578076</updated>
+    </task>
+    <option name="localTasksCounter" value="26" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -336,6 +350,7 @@
     <MESSAGE value="CSS Labo 4 commit 3" />
     <MESSAGE value="CSS Labo 4 commit 4" />
     <MESSAGE value="CSS Labo 5 commit 1" />
-    <option name="LAST_COMMIT_MESSAGE" value="CSS Labo 5 commit 1" />
+    <MESSAGE value="CSS Labo 5 commit 2" />
+    <option name="LAST_COMMIT_MESSAGE" value="CSS Labo 5 commit 2" />
   </component>
 </project>
