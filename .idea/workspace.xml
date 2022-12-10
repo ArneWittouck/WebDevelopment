@@ -7,14 +7,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="08705620-3cc0-439a-8fe9-46dfecadd001" name="Changes" comment="CSS Labo 5 commit 3">
-      <change afterPath="$PROJECT_DIR$/CSS_labo_6/Oefening_Mondriaan/Styles/Style.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CSS_labo_6/Oefening_Mondriaan/Styles/bootstrap-grid.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CSS_labo_6/Oefening_Mondriaan/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CSS_labo_6/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-    </list>
+    <list default="true" id="08705620-3cc0-439a-8fe9-46dfecadd001" name="Changes" comment="CSS Labo 6 commit 1" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -23,8 +16,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="HTML File" />
         <option value="CSS File" />
+        <option value="HTML File" />
       </list>
     </option>
   </component>
@@ -149,7 +142,7 @@
       <workItem from="1670422728699" duration="3163000" />
       <workItem from="1670527056504" duration="343000" />
       <workItem from="1670586237182" duration="81000" />
-      <workItem from="1670684353314" duration="3635000" />
+      <workItem from="1670684353314" duration="3891000" />
     </task>
     <task id="LOCAL-00001" summary="Second commit">
       <created>1665306611023</created>
@@ -333,7 +326,14 @@
       <option name="project" value="LOCAL" />
       <updated>1670013762223</updated>
     </task>
-    <option name="localTasksCounter" value="27" />
+    <task id="LOCAL-00027" summary="CSS Labo 6 commit 1">
+      <created>1670688256619</created>
+      <option name="number" value="00027" />
+      <option name="presentableId" value="LOCAL-00027" />
+      <option name="project" value="LOCAL" />
+      <updated>1670688256619</updated>
+    </task>
+    <option name="localTasksCounter" value="28" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -371,6 +371,7 @@
     <MESSAGE value="CSS Labo 5 commit 1" />
     <MESSAGE value="CSS Labo 5 commit 2" />
     <MESSAGE value="CSS Labo 5 commit 3" />
-    <option name="LAST_COMMIT_MESSAGE" value="CSS Labo 5 commit 3" />
+    <MESSAGE value="CSS Labo 6 commit 1" />
+    <option name="LAST_COMMIT_MESSAGE" value="CSS Labo 6 commit 1" />
   </component>
 </project>
