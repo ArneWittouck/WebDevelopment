@@ -1,0 +1,17 @@
+div.container-fluid > div.row > div {
+    border: solid black;
+    border-radius: 5px;
+    margin-bottom: 20px;
+    padding: 75px;
+    text-align: center;
+    background-color: rgb(229, 229, 229);
+}
+
+div.container-fluid > div.row > div:nth-child(even) {
+    background-color: #8D99AE;
+}
+
+body {
+    width: 80%;
+    margin: 20px auto;
+}
