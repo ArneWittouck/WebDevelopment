@@ -20,7 +20,7 @@ h1 {
 img {
     border-radius: 100%;
     border: .25em solid white;
-    size: 40px 40px;
+    size: 40px;
 }
 
 #vrienden {
@@ -40,7 +40,7 @@ img {
 }
 
 #persoonlijkeInformatie > h2 {
-    padding: 0 30px 40px 80px;
+    padding: 0 30px 10px 80px;
 }
 
 #hobbies {
