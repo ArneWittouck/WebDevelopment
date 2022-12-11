@@ -1,0 +1,87 @@
+body {
+    font-family: Arial, Helvetica, serif;
+    width: 80%;
+    margin: 0 auto;
+}
+
+header {
+    background-color: #8D99AE;
+    border-radius: 20px;
+}
+
+h1 {
+    margin: 0;
+    font-weight: bold;
+    text-align: center;
+    font-size: 6em;
+    padding-top: 30px;
+}
+
+img {
+    border-radius: 100%;
+    border: .25em solid white;
+    size: 40px 40px;
+}
+
+#vrienden {
+    background-color: #2B2D42;
+    border-radius: 10px;
+    color: white;
+}
+
+#vrienden > h2 {
+    text-align: center;
+}
+
+#persoonlijkeInformatie {
+    background-color: #EDF2F4;
+    border-radius: 10px;
+    padding-bottom: 40px;
+}
+
+#persoonlijkeInformatie > h2 {
+    padding: 0 30px 40px 80px;
+}
+
+#hobbies {
+    background-color: white;
+    padding: 0 30px 40px 0;
+}
+
+#hobbies > h3 {
+    padding-left: 20px;
+    font-size: 1.5em;
+}
+
+#gamen {
+    background-color: black;
+    color: white;
+}
+
+#fitness {
+    background-color: black;
+    color: white;
+}
+
+#feesten {
+    background-color: black;
+    color: white;
+}
+
+#programmeren {
+    background-color: black;
+    color: white;
+}
+
+#aboutme {
+    background-color: white;
+    padding: 0 30px 40px 0;
+}
+
+#aboutme > h3 {
+    padding-left: 20px;
+    font-size: 1.5em;
+}
+
+
+
