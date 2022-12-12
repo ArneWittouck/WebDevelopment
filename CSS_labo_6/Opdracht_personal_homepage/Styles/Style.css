@@ -20,7 +20,8 @@ h1 {
 img {
     border-radius: 100%;
     border: .25em solid white;
-    size: 40px;
+    height: 200px;
+    width: 180px;
 }
 
 #vrienden {
