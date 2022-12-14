@@ -7,7 +7,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="08705620-3cc0-439a-8fe9-46dfecadd001" name="Changes" comment="CSS Labo 7 commit 1" />
+    <list default="true" id="08705620-3cc0-439a-8fe9-46dfecadd001" name="Changes" comment="CSS Labo 7 commit 2" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -150,6 +150,7 @@
       <workItem from="1670839546656" duration="101000" />
       <workItem from="1671023627360" duration="5985000" />
       <workItem from="1671032689478" duration="2546000" />
+      <workItem from="1671036706004" duration="101000" />
     </task>
     <task id="LOCAL-00001" summary="Second commit">
       <created>1665306611023</created>
@@ -375,7 +376,14 @@
       <option name="project" value="LOCAL" />
       <updated>1671035254936</updated>
     </task>
-    <option name="localTasksCounter" value="33" />
+    <task id="LOCAL-00033" summary="CSS Labo 7 commit 2">
+      <created>1671036801293</created>
+      <option name="number" value="00033" />
+      <option name="presentableId" value="LOCAL-00033" />
+      <option name="project" value="LOCAL" />
+      <updated>1671036801293</updated>
+    </task>
+    <option name="localTasksCounter" value="34" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -393,7 +401,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Fourth commit" />
     <MESSAGE value="Fifth commit" />
     <MESSAGE value="Sixth commit" />
     <MESSAGE value="Extra Hompepage changes commit" />
@@ -418,6 +425,7 @@
     <MESSAGE value="CSS Labo 6 commit 4" />
     <MESSAGE value="CSS Labo 6 commit 5" />
     <MESSAGE value="CSS Labo 7 commit 1" />
-    <option name="LAST_COMMIT_MESSAGE" value="CSS Labo 7 commit 1" />
+    <MESSAGE value="CSS Labo 7 commit 2" />
+    <option name="LAST_COMMIT_MESSAGE" value="CSS Labo 7 commit 2" />
   </component>
 </project>
