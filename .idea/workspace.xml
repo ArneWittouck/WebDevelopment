@@ -7,7 +7,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="08705620-3cc0-439a-8fe9-46dfecadd001" name="Changes" comment="CSS Labo 7 commit 2" />
+    <list default="true" id="08705620-3cc0-439a-8fe9-46dfecadd001" name="Changes" comment="CSS Labo 7 commit 2">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CSS_labo_7/Opdrachten/Grid Exercises/css/exercise5.css" beforeDir="false" afterPath="$PROJECT_DIR$/CSS_labo_7/Opdrachten/Grid Exercises/css/exercise5.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Styles_global/Style_homepage.css" beforeDir="false" afterPath="$PROJECT_DIR$/Styles_global/Style_homepage.css" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -151,6 +155,10 @@
       <workItem from="1671023627360" duration="5985000" />
       <workItem from="1671032689478" duration="2546000" />
       <workItem from="1671036706004" duration="101000" />
+      <workItem from="1671036937812" duration="23000" />
+      <workItem from="1671036978742" duration="196000" />
+      <workItem from="1671037226356" duration="175000" />
+      <workItem from="1671629150473" duration="1021000" />
     </task>
     <task id="LOCAL-00001" summary="Second commit">
       <created>1665306611023</created>
