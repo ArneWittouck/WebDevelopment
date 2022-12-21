@@ -7,11 +7,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="08705620-3cc0-439a-8fe9-46dfecadd001" name="Changes" comment="CSS Labo 7 commit 2">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CSS_labo_7/Opdrachten/Grid Exercises/css/exercise5.css" beforeDir="false" afterPath="$PROJECT_DIR$/CSS_labo_7/Opdrachten/Grid Exercises/css/exercise5.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Styles_global/Style_homepage.css" beforeDir="false" afterPath="$PROJECT_DIR$/Styles_global/Style_homepage.css" afterDir="false" />
-    </list>
+    <list default="true" id="08705620-3cc0-439a-8fe9-46dfecadd001" name="Changes" comment="CSS Labo 7 commit 3" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -158,7 +154,7 @@
       <workItem from="1671036937812" duration="23000" />
       <workItem from="1671036978742" duration="196000" />
       <workItem from="1671037226356" duration="175000" />
-      <workItem from="1671629150473" duration="1021000" />
+      <workItem from="1671629150473" duration="1054000" />
     </task>
     <task id="LOCAL-00001" summary="Second commit">
       <created>1665306611023</created>
@@ -391,7 +387,14 @@
       <option name="project" value="LOCAL" />
       <updated>1671036801293</updated>
     </task>
-    <option name="localTasksCounter" value="34" />
+    <task id="LOCAL-00034" summary="CSS Labo 7 commit 3">
+      <created>1671630212764</created>
+      <option name="number" value="00034" />
+      <option name="presentableId" value="LOCAL-00034" />
+      <option name="project" value="LOCAL" />
+      <updated>1671630212765</updated>
+    </task>
+    <option name="localTasksCounter" value="35" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -409,7 +412,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Fifth commit" />
     <MESSAGE value="Sixth commit" />
     <MESSAGE value="Extra Hompepage changes commit" />
     <MESSAGE value="Extra Hompepage changes 2" />
@@ -434,6 +436,7 @@
     <MESSAGE value="CSS Labo 6 commit 5" />
     <MESSAGE value="CSS Labo 7 commit 1" />
     <MESSAGE value="CSS Labo 7 commit 2" />
-    <option name="LAST_COMMIT_MESSAGE" value="CSS Labo 7 commit 2" />
+    <MESSAGE value="CSS Labo 7 commit 3" />
+    <option name="LAST_COMMIT_MESSAGE" value="CSS Labo 7 commit 3" />
   </component>
 </project>
