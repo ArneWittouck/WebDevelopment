@@ -1,0 +1,191 @@
+/** Volgende CSS gaan we ze geven **/
+.respimg {
+    width: 100%;
+    height: auto;
+    display: block;
+}
+
+body {
+    font-family: Helvetica, serif;
+}
+
+header > img {
+    height: 50px;
+}
+
+body > header {
+    border-bottom: solid 1px #ebe8e8;
+    margin: 0 auto;
+}
+
+@media (max-width: 769px) {
+    header {
+        width: 600px;
+    }
+    nav {
+        width: 600px;
+    }
+    section {
+        width: 600px;
+    }
+}
+
+@media (min-width: 770px) {
+    header {
+        width: 750px;
+    }
+    nav {
+        width: 750px;
+    }
+    section {
+        width: 600px;
+    }
+}
+
+@media (min-width: 1000px) {
+    header {
+        width: 980px;
+    }
+    nav {
+        width: 980px;
+    }
+    section {
+        width: 600px;
+    }
+}
+
+nav {
+    display: grid;
+    grid-template-columns: repeat(7, 1fr);
+    padding: 10px 0;
+    margin: 0 auto;
+}
+
+nav > a {
+    text-align: center;
+    padding: 10px 0;
+    border-right: solid #ebe8e8 1px;
+    text-transform: uppercase;
+    color: #5b4746;
+    font-size: 13px;
+    border-bottom: solid white 2px;
+}
+
+nav > a:last-child {
+    border: none;
+}
+
+nav > a:hover  {
+    border-bottom: solid 2px #fff100;
+}
+
+main > header {
+    border-top: solid #ebe8e8 1px;
+    background-image: url("images/headerimage.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    margin: 0 auto;
+    height: 500px;
+    width: 100%;
+    color: white;
+    font-size: 40px;
+    text-shadow: 2px 2px #8D99AE;
+    text-align: center;
+}
+
+main > header > p {
+    text-align: center;
+    margin: 0;
+    padding: calc((500px - 46px)/2) 0;
+}
+
+@media (min-width: 800px) {
+    main > header {
+        font-size: 5em;
+    }
+    main > header > p {
+        padding: calc((500px - 92px)/2) 0;
+    }
+}
+
+section {
+    margin: 50px auto 0 auto;
+}
+
+section.recipes > div {
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    grid-template-rows: repeat(3, 1fr);
+}
+
+h1 {
+    margin: 0 0 13px 0;
+    text-transform: uppercase;
+    padding: 10px 0;
+    border-bottom: solid black 3px;
+}
+
+article {
+    border-top: solid #ddd 1px;
+}
+
+article > p:first-child {
+    text-transform: uppercase;
+    font-size: 1.2em;
+    letter-spacing: 1px;
+    color: #ff4d56;
+}
+
+article > p:nth-child(3) {
+    color: #666;
+    line-height: 2;
+}
+
+article > div:nth-child(4){
+    display: flex;
+}
+
+article > div:nth-child(4) > p:first-child{
+    padding-right: 10px;
+    border-right: solid #ebe8e8 1px;
+    font-style: italic;
+}
+
+article > div:nth-child(4) > p:last-child{
+    padding-left: 10px;
+    color: #666;
+}
+
+section.recommended {
+    margin: 50px auto 0 auto;
+}
+
+section.recommended > div > div > div {
+    margin-bottom: 25px;
+}
+
+.container-fluid {
+    padding: 0;
+}
+
+footer {
+    width: 100%;
+    line-height: 2em;
+    border-top: solid #ebe8e8 1px;
+}
+
+footer > #left {
+    float: left;
+    text-align: right;
+    width: 50%;
+    padding: 20px;
+}
+
+footer > #right {
+    float: right;
+    text-align: left;
+    background-color: black;
+    color: white;
+    width: 50%;
+    padding: 20px;
+}

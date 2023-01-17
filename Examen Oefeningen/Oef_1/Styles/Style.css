@@ -1,0 +1,6 @@
+#greenBlock {
+    width: 500px;
+    height: 300px;
+    background-color: darkseagreen;
+    margin-left: calc((100% - 500px)/2);
+}
