@@ -1,0 +1,40 @@
+<!DOCTYPE html> 
+<html lang="en">
+<head> 
+	<title>Demonstratie slider</title>
+	<script type="text/javascript" charset="utf-8" src="scripts/code.js"></script>
+	<link rel="stylesheet" href="styles/styles.css"/>
+</head> 
+<body> 
+<section>
+	<p>Open het console venster, versleep daarna de slider hieronder en kijk welke berichten er komen</p>
+	<input type="range" class="slider" value="50" min="0" max="100" aria-label="input"/>
+</section>
+<section>
+<p>Een gekleurd blokje :</p>
+<div class="colorDemo"></div>
+</section>
+<div>
+	<section>
+		<h2>Waar wordt de event listener gekoppeld aan de slider?</h2>
+		<p>In de setup function.</p>
+	</section>
+	<section>
+		<h2>Waarom moeten we die op twee soorten events koppelen?</h2>
+		<p>Als je enkel de change koppelt zal hij enkel het eindresultaat in de console plaatsen.<br>
+		Als je enkel de input koppelt geeft hij elke waarde waar je over gaat bij het sliden.</p>
+	</section>
+	<section>
+		<h2>In de CSS file wordt nergens een rode kleur opgegeven, waar wordt dan wel de rode kleur van
+			het blokje ingesteld?</h2>
+		<p>In de setup function in de JavaScript file.</p>
+	</section>
+	<section>
+		<h2>Waarom schrijven we telkens sliders[0] en colorDemos[0] en niet gewoon sliders of
+			colorDemos?</h2>
+		<p>Omdat er telkens een NodeList wordt weergegeven als je getElementsByClassName gebruikt.<br>
+		Je moet dus telkens het eerste (en ook het enige) element uit die lijst halen.</p>
+	</section>
+</div>
+</body> 
+</html> 

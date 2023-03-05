@@ -1,0 +1,16 @@
+body {
+    margin-top: 100px;
+    font-family: Arial, sans-serif;
+}
+
+p {
+    margin: 50px 20px;
+}
+
+.belangrijk {
+    font-weight: bold;
+}
+
+.opvallend {
+    color: red;
+}

@@ -7,7 +7,68 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="08705620-3cc0-439a-8fe9-46dfecadd001" name="Changes" comment="" />
+    <list default="true" id="08705620-3cc0-439a-8fe9-46dfecadd001" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/JavaScript_labo_3/Opdracht_Colorpicker/Scripts/JavaScript.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaScript_labo_3/Opdracht_Colorpicker/Styles/Style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaScript_labo_3/Opdracht_Colorpicker/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaScript_labo_3/Opdracht_Paragrafen/Scripts/JavaScript.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaScript_labo_3/Opdracht_Paragrafen/Styles/Style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaScript_labo_3/Opdracht_Paragrafen/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaScript_labo_3/Opdracht_Producten/Scripts/JavaScript.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaScript_labo_3/Opdracht_Producten/Styles/Style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaScript_labo_3/Opdracht_Producten/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaScript_labo_3/demonstratie_slider/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaScript_labo_3/demonstratie_slider/scripts/code.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaScript_labo_3/demonstratie_slider/styles/styles.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaScript_labo_3/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CSS_labo_3/Opdracht_homepage_CSS/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/CSS_labo_3/Opdracht_homepage_CSS/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CSS_labo_6/Opdracht_personal_homepage/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/CSS_labo_6/Opdracht_personal_homepage/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Javascript_labo_1/demo rekenmasjien/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/JavaScript_labo_1/demo rekenmasjien/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Javascript_labo_1/demo rekenmasjien/scripts/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/JavaScript_labo_1/demo rekenmasjien/scripts/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Javascript_labo_1/demo rekenmasjien/styles/index.css" beforeDir="false" afterPath="$PROJECT_DIR$/JavaScript_labo_1/demo rekenmasjien/styles/index.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Javascript_labo_1/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/JavaScript_labo_1/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Javascript_labo_2/Opdracht_1/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/JavaScript_labo_2/Opdracht_1/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Javascript_labo_2/Opdracht_1/scripts/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/JavaScript_labo_2/Opdracht_1/scripts/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Javascript_labo_2/Opdracht_3/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/JavaScript_labo_2/Opdracht_3/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Javascript_labo_2/Opdracht_3/scripts/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/JavaScript_labo_2/Opdracht_3/scripts/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Javascript_labo_2/Opdracht_5/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/JavaScript_labo_2/Opdracht_5/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Javascript_labo_2/Opdracht_5/scripts/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/JavaScript_labo_2/Opdracht_5/scripts/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Javascript_labo_2/Opdracht_6/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/JavaScript_labo_2/Opdracht_6/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Javascript_labo_2/Opdracht_6/scripts/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/JavaScript_labo_2/Opdracht_6/scripts/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Javascript_labo_2/Opdracht_Substring_Screenshots/Images/screenshot substring na.PNG" beforeDir="false" afterPath="$PROJECT_DIR$/JavaScript_labo_2/Opdracht_Substring_Screenshots/Images/screenshot substring na.PNG" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Javascript_labo_2/Opdracht_Substring_Screenshots/Images/screenshot substring voor.PNG" beforeDir="false" afterPath="$PROJECT_DIR$/JavaScript_labo_2/Opdracht_Substring_Screenshots/Images/screenshot substring voor.PNG" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Javascript_labo_2/Opdracht_Substring_Screenshots/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/JavaScript_labo_2/Opdracht_Substring_Screenshots/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Javascript_labo_2/Opdracht_Substring_Screenshots/scripts/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/JavaScript_labo_2/Opdracht_Substring_Screenshots/scripts/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Javascript_labo_2/Opdracht_kopieer/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/JavaScript_labo_2/Opdracht_kopieer/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Javascript_labo_2/Opdracht_kopieer/scripts/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/JavaScript_labo_2/Opdracht_kopieer/scripts/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Javascript_labo_2/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/JavaScript_labo_2/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/labo_3/contact/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/HTML_labo_3/contact/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/labo_3/homepage/images/11325.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/HTML_labo_3/homepage/images/11325.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/labo_3/homepage/images/Hotel California Cover.jfif" beforeDir="false" afterPath="$PROJECT_DIR$/HTML_labo_3/homepage/images/Hotel California Cover.jfif" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/labo_3/homepage/images/Marvel-Comics-logo.png" beforeDir="false" afterPath="$PROJECT_DIR$/HTML_labo_3/homepage/images/Marvel-Comics-logo.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/labo_3/homepage/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/HTML_labo_3/homepage/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/labo_3/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/HTML_labo_3/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/labo_3/opdrachten_1_2_3.html" beforeDir="false" afterPath="$PROJECT_DIR$/HTML_labo_3/opdrachten_1_2_3.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/labo_3/opleidingsaanbod/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/HTML_labo_3/opleidingsaanbod/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/labo_4/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/HTML_labo_4/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/labo_4/opdracht_5/hobbys.html" beforeDir="false" afterPath="$PROJECT_DIR$/HTML_labo_4/opdracht_5/hobbys.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/labo_4/opdracht_5/images/11325.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/HTML_labo_4/opdracht_5/images/11325.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/labo_4/opdracht_5/images/Editted image 1.png" beforeDir="false" afterPath="$PROJECT_DIR$/HTML_labo_4/opdracht_5/images/Editted image 1.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/labo_4/opdracht_5/images/Editted image 2.png" beforeDir="false" afterPath="$PROJECT_DIR$/HTML_labo_4/opdracht_5/images/Editted image 2.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/labo_4/opdracht_5/images/Editted image 3.png" beforeDir="false" afterPath="$PROJECT_DIR$/HTML_labo_4/opdracht_5/images/Editted image 3.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/labo_4/opdracht_5/images/Editted image webstorm 1.png" beforeDir="false" afterPath="$PROJECT_DIR$/HTML_labo_4/opdracht_5/images/Editted image webstorm 1.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/labo_4/opdracht_5/images/Editted image webstorm 2.png" beforeDir="false" afterPath="$PROJECT_DIR$/HTML_labo_4/opdracht_5/images/Editted image webstorm 2.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/labo_4/opdracht_5/images/Editted image webstorm 3.png" beforeDir="false" afterPath="$PROJECT_DIR$/HTML_labo_4/opdracht_5/images/Editted image webstorm 3.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/labo_4/opdracht_5/images/Foto-bergen.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/HTML_labo_4/opdracht_5/images/Foto-bergen.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/labo_4/opdracht_5/images/Hotel California Cover.jfif" beforeDir="false" afterPath="$PROJECT_DIR$/HTML_labo_4/opdracht_5/images/Hotel California Cover.jfif" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/labo_4/opdracht_5/images/Marvel-Comics-logo.png" beforeDir="false" afterPath="$PROJECT_DIR$/HTML_labo_4/opdracht_5/images/Marvel-Comics-logo.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/labo_4/opdracht_5/images/Screenshot 2022-10-16 103128.png" beforeDir="false" afterPath="$PROJECT_DIR$/HTML_labo_4/opdracht_5/images/Screenshot 2022-10-16 103128.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/labo_4/opdracht_5/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/HTML_labo_4/opdracht_5/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/labo_4/opdracht_5/likes.html" beforeDir="false" afterPath="$PROJECT_DIR$/HTML_labo_4/opdracht_5/likes.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/labo_4/opdrachten_1_2.html" beforeDir="false" afterPath="$PROJECT_DIR$/HTML_labo_4/opdrachten_1_2.html" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -16,8 +77,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="CSS File" />
         <option value="HTML File" />
+        <option value="CSS File" />
         <option value="JavaScript File" />
       </list>
     </option>
@@ -36,31 +97,32 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;DefaultHtmlFileTemplate&quot;: &quot;HTML File&quot;,
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/arnew/Documents/GitHub/WebDevelopment/Javascript_labo_2/Opdracht_Substring_Screenshots&quot;,
-    &quot;list.type.of.created.stylesheet&quot;: &quot;CSS&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;run.code.analysis.last.selected.profile&quot;: &quot;pProject Default&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;project.propVCSSupport.DirectoryMappings&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
+    "DefaultHtmlFileTemplate": "HTML File",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "C:/Users/arnew/Documents/GitHub/WebDevelopment/JavaScript_labo_3",
+    "list.type.of.created.stylesheet": "CSS",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "run.code.analysis.last.selected.profile": "pProject Default",
+    "settings.editor.selected.configurable": "project.propVCSSupport.DirectoryMappings",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\arnew\Documents\GitHub\WebDevelopment\JavaScript_labo_3" />
       <recent name="C:\Users\arnew\Documents\GitHub\WebDevelopment\Javascript_labo_2\Opdracht_Substring_Screenshots" />
       <recent name="C:\Users\arnew\Documents\GitHub\WebDevelopment\Javascript_labo_2" />
       <recent name="C:\Users\arnew\Documents\GitHub\WebDevelopment\Javascript_labo_2\Opdracht_6" />
       <recent name="C:\Users\arnew\Documents\GitHub\WebDevelopment\Javascript_labo_2\Opdracht_5" />
-      <recent name="C:\Users\arnew\Documents\GitHub\WebDevelopment\Javascript_labo_2\Opdracht_4" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\arnew\Documents\GitHub\WebDevelopment\Javascript_labo_2\Opdracht_Substring_Screenshots\Images" />
@@ -171,6 +233,8 @@
       <workItem from="1676470251063" duration="747000" />
       <workItem from="1677003200718" duration="3903000" />
       <workItem from="1677500646998" duration="133000" />
+      <workItem from="1677867288660" duration="432000" />
+      <workItem from="1677950048658" duration="8030000" />
     </task>
     <task id="LOCAL-00001" summary="Second commit">
       <created>1665306611023</created>
@@ -456,6 +520,7 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="CSS Labo 3 Commit 2" />
     <MESSAGE value="CSS Labo 3 Commit 3" />
     <MESSAGE value="Gastles Opdracht commit" />
@@ -487,7 +552,7 @@
     <breakpoint-manager>
       <breakpoints>
         <line-breakpoint enabled="true" type="javascript">
-          <url>file://$PROJECT_DIR$/Javascript_labo_2/Opdracht_4/scripts/index.js</url>
+          <url>file://$PROJECT_DIR$/JavaScript_labo_2/Opdracht_4/scripts/index.js</url>
           <option name="timeStamp" value="3" />
         </line-breakpoint>
       </breakpoints>

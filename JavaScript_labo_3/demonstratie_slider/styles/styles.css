@@ -1,0 +1,18 @@
+body {
+	font-family: Arial, sans-serif;
+}
+
+h2 {
+	font-size: 20px;
+	margin-bottom: 5px;
+}
+
+p {
+	margin-top: 5px;
+}
+
+.colorDemo {
+	width:100px;
+	height:100px;
+	border:1px solid black;
+}
