@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>opdracht fromwaarden</title>
+  <link rel="stylesheet" href="Styles/Style.css" type="text/css">
+</head>
+<body>
+<div>
+    <label for="roker">Is roker</label>
+    <input type="checkbox" name="roker" id="roker">
+</div>
+<div>
+    <label for="Nederlands">Moedertaal</label>
+    <input type="radio" name="moedertaal" id="Nederlands" value="nl" checked>
+    Nederlands
+    <label for="Frans"></label>
+    <input type="radio" name="moedertaal" id="Frans" value="fr">
+    Frans
+    <label for="Engels"></label>
+    <input type="radio" name="moedertaal" id="Engels" value="en">
+    Engels
+</div>
+<div>
+    <label for="buurland">Favoriete buurland</label>
+    <select name="buurland" id="buurland" size="1">
+        <option value="Nederland">Nederland</option>
+        <option value="Frankrijk">Frankrijk</option>
+        <option value="Duitsland">Duitsland</option>
+    </select>
+</div>
+<div>
+    <label for="bestelling">Bestelling</label>
+    <select name="bestelling" id="bestelling" size="6" multiple>
+        <option value="aardappelen">aardappelen</option>
+        <option value="brood">brood</option>
+        <option value="melk">melk</option>
+        <option value="biefstuk">biefstuk</option>
+        <option value="chips">chips</option>
+        <option value="krant">krant</option>
+    </select>
+</div>
+<div>
+    <input type="button" name="button" id="button" value="Toon resultaat">
+</div>
+<p id="output"></p>
+<script src="Scripts/JavaScript.js"></script>
+</body>
+</html>

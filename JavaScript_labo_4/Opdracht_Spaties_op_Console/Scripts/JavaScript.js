@@ -8,7 +8,7 @@ const maakMetSpaties = () => {
     let text2 = text.replaceAll(" ", "")
     let textArray = text2.split("");
     let result = textArray.join(" ");
-    console.log(result);
+    console.log(result.trim());
 }
 
 window.addEventListener('load', setup);

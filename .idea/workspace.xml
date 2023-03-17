@@ -7,7 +7,27 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="08705620-3cc0-439a-8fe9-46dfecadd001" name="Changes" comment="" />
+    <list default="true" id="08705620-3cc0-439a-8fe9-46dfecadd001" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/JavaScript_labo_5/Opdracht_De_Het/Scripts/JavaScript.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaScript_labo_5/Opdracht_De_Het/Styles/Style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaScript_labo_5/Opdracht_De_Het/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaScript_labo_5/Opdracht_Formvalidatie/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaScript_labo_5/Opdracht_Formvalidatie/scripts/code.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaScript_labo_5/Opdracht_Formvalidatie/styles/styles.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaScript_labo_5/Opdracht_Formwaarden/Scripts/JavaScript.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaScript_labo_5/Opdracht_Formwaarden/Styles/Style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaScript_labo_5/Opdracht_Formwaarden/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaScript_labo_5/Opdracht_Gemeenten/Scripts/JavaScript.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaScript_labo_5/Opdracht_Gemeenten/Styles/Style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaScript_labo_5/Opdracht_Gemeenten/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaScript_labo_5/Opdracht_Trigrams/Scripts/JavaScript.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaScript_labo_5/Opdracht_Trigrams/Styles/Style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaScript_labo_5/Opdracht_Trigrams/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaScript_labo_5/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaScript_labo_4/Opdracht_Spaties_op_Console/Scripts/JavaScript.js" beforeDir="false" afterPath="$PROJECT_DIR$/JavaScript_labo_4/Opdracht_Spaties_op_Console/Scripts/JavaScript.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -43,7 +63,7 @@
     &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/arnew/Documents/GitHub/WebDevelopment/JavaScript_labo_4&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/arnew/Documents/GitHub/WebDevelopment/JavaScript_labo_5&quot;,
     &quot;list.type.of.created.stylesheet&quot;: &quot;CSS&quot;,
     &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
     &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
@@ -57,11 +77,11 @@
 }</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
-      <recent name="C:\Users\arnew\Documents\GitHub\WebDevelopment\JavaScript_labo_4" />
+      <recent name="C:\Users\arnew\Documents\GitHub\WebDevelopment\JavaScript_labo_5" />
       <recent name="C:\Users\arnew\Documents\GitHub\WebDevelopment" />
+      <recent name="C:\Users\arnew\Documents\GitHub\WebDevelopment\JavaScript_labo_4" />
       <recent name="C:\Users\arnew\Documents\GitHub\WebDevelopment\JavaScript_labo_3" />
       <recent name="C:\Users\arnew\Documents\GitHub\WebDevelopment\Javascript_labo_2\Opdracht_Substring_Screenshots" />
-      <recent name="C:\Users\arnew\Documents\GitHub\WebDevelopment\Javascript_labo_2" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\arnew\Documents\GitHub\WebDevelopment\Javascript_labo_2\Opdracht_Substring_Screenshots\Images" />
@@ -177,6 +197,12 @@
       <workItem from="1678279933458" duration="10358000" />
       <workItem from="1678298992560" duration="860000" />
       <workItem from="1678306458673" duration="2191000" />
+      <workItem from="1678436794550" duration="813000" />
+      <workItem from="1678884578734" duration="29000" />
+      <workItem from="1678884846519" duration="10532000" />
+      <workItem from="1678900746231" duration="387000" />
+      <workItem from="1678947947125" duration="1978000" />
+      <workItem from="1679057890536" duration="12196000" />
     </task>
     <task id="LOCAL-00001" summary="Second commit">
       <created>1665306611023</created>

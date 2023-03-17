@@ -1,0 +1,34 @@
+body {
+    margin-top: 10px;
+    font-family: Arial, sans-serif;
+}
+
+form {
+    border: solid black 2px;
+    width: 500px;
+    padding: 10px;
+}
+
+div {
+    margin: 2px;
+}
+
+p {
+    margin: 5px;
+}
+
+#roker {
+    margin-left: 100px;
+}
+
+#Nederlands {
+    margin-left: 73px;
+}
+
+#buurland {
+    margin-left: 20px;
+}
+
+#bestelling {
+    margin-left: 84px;
+}
