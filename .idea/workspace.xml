@@ -7,27 +7,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="08705620-3cc0-439a-8fe9-46dfecadd001" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/JavaScript_labo_5/Opdracht_De_Het/Scripts/JavaScript.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JavaScript_labo_5/Opdracht_De_Het/Styles/Style.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JavaScript_labo_5/Opdracht_De_Het/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JavaScript_labo_5/Opdracht_Formvalidatie/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JavaScript_labo_5/Opdracht_Formvalidatie/scripts/code.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JavaScript_labo_5/Opdracht_Formvalidatie/styles/styles.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JavaScript_labo_5/Opdracht_Formwaarden/Scripts/JavaScript.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JavaScript_labo_5/Opdracht_Formwaarden/Styles/Style.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JavaScript_labo_5/Opdracht_Formwaarden/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JavaScript_labo_5/Opdracht_Gemeenten/Scripts/JavaScript.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JavaScript_labo_5/Opdracht_Gemeenten/Styles/Style.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JavaScript_labo_5/Opdracht_Gemeenten/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JavaScript_labo_5/Opdracht_Trigrams/Scripts/JavaScript.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JavaScript_labo_5/Opdracht_Trigrams/Styles/Style.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JavaScript_labo_5/Opdracht_Trigrams/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JavaScript_labo_5/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/JavaScript_labo_4/Opdracht_Spaties_op_Console/Scripts/JavaScript.js" beforeDir="false" afterPath="$PROJECT_DIR$/JavaScript_labo_4/Opdracht_Spaties_op_Console/Scripts/JavaScript.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-    </list>
+    <list default="true" id="08705620-3cc0-439a-8fe9-46dfecadd001" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -202,7 +182,7 @@
       <workItem from="1678884846519" duration="10532000" />
       <workItem from="1678900746231" duration="387000" />
       <workItem from="1678947947125" duration="1978000" />
-      <workItem from="1679057890536" duration="12196000" />
+      <workItem from="1679057890536" duration="12387000" />
     </task>
     <task id="LOCAL-00001" summary="Second commit">
       <created>1665306611023</created>
@@ -484,7 +464,14 @@
       <option name="project" value="LOCAL" />
       <updated>1678308663200</updated>
     </task>
-    <option name="localTasksCounter" value="41" />
+    <task id="LOCAL-00041" summary="JS Labo 5, 1st commit">
+      <created>1679071314456</created>
+      <option name="number" value="00041" />
+      <option name="presentableId" value="LOCAL-00041" />
+      <option name="project" value="LOCAL" />
+      <updated>1679071314456</updated>
+    </task>
+    <option name="localTasksCounter" value="42" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -503,7 +490,6 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
-    <MESSAGE value="Gastles Opdracht commit" />
     <MESSAGE value="Gastles Opdracht commit 2" />
     <MESSAGE value="Gastles Opdracht commit 3" />
     <MESSAGE value="Gastles Opdracht commit 4" />
@@ -528,7 +514,8 @@
     <MESSAGE value="JS Labo 2, 3rd commit" />
     <MESSAGE value="JS Labo 3, 1st commit" />
     <MESSAGE value="JS Labo 4, 1st commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="JS Labo 4, 1st commit" />
+    <MESSAGE value="JS Labo 5, 1st commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="JS Labo 5, 1st commit" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
