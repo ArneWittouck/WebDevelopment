@@ -7,7 +7,30 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="08705620-3cc0-439a-8fe9-46dfecadd001" name="Changes" comment="" />
+    <list default="true" id="08705620-3cc0-439a-8fe9-46dfecadd001" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/JavaScript_labo_6/Opdracht_Colorpicker/Scripts/JavaScript.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaScript_labo_6/Opdracht_Colorpicker/Styles/Style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaScript_labo_6/Opdracht_Colorpicker/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaScript_labo_6/Opdracht_Nodes/Opdracht_1/Scripts/JavaScript.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaScript_labo_6/Opdracht_Nodes/Opdracht_1/Styles/Style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaScript_labo_6/Opdracht_Nodes/Opdracht_1/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaScript_labo_6/Opdracht_Nodes/Opdracht_2/Scripts/JavaScript.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaScript_labo_6/Opdracht_Nodes/Opdracht_2/Styles/Style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaScript_labo_6/Opdracht_Nodes/Opdracht_2/images/Person_icon_BLACK-01.svg.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaScript_labo_6/Opdracht_Nodes/Opdracht_2/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaScript_labo_6/Opdracht_Nodes/Opdracht_3/Scripts/JavaScript.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaScript_labo_6/Opdracht_Nodes/Opdracht_3/Styles/Style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaScript_labo_6/Opdracht_Nodes/Opdracht_3/images/Person_icon_BLACK-01.svg.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaScript_labo_6/Opdracht_Nodes/Opdracht_3/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaScript_labo_6/Opdracht_Nodes/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaScript_labo_6/demo event bubbling/demo event bubbling/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaScript_labo_6/demo event bubbling/demo event bubbling/scripts/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaScript_labo_6/demo event bubbling/demo event bubbling/styles/index.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaScript_labo_6/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Styles_global/Style_homepage.css" beforeDir="false" afterPath="$PROJECT_DIR$/Styles_global/Style_homepage.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -16,9 +39,9 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="HTML File" />
         <option value="CSS File" />
         <option value="JavaScript File" />
+        <option value="HTML File" />
       </list>
     </option>
   </component>
@@ -43,7 +66,7 @@
     &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/arnew/Documents/GitHub/WebDevelopment/JavaScript_labo_5&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/arnew/Documents/GitHub/WebDevelopment/JavaScript_labo_6&quot;,
     &quot;list.type.of.created.stylesheet&quot;: &quot;CSS&quot;,
     &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
     &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
@@ -57,13 +80,14 @@
 }</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
-      <recent name="C:\Users\arnew\Documents\GitHub\WebDevelopment\JavaScript_labo_5" />
+      <recent name="C:\Users\arnew\Documents\GitHub\WebDevelopment\JavaScript_labo_6" />
+      <recent name="C:\Users\arnew\Documents\GitHub\WebDevelopment\JavaScript_labo_6\Opdracht_Nodes" />
       <recent name="C:\Users\arnew\Documents\GitHub\WebDevelopment" />
+      <recent name="C:\Users\arnew\Documents\GitHub\WebDevelopment\JavaScript_labo_5" />
       <recent name="C:\Users\arnew\Documents\GitHub\WebDevelopment\JavaScript_labo_4" />
-      <recent name="C:\Users\arnew\Documents\GitHub\WebDevelopment\JavaScript_labo_3" />
-      <recent name="C:\Users\arnew\Documents\GitHub\WebDevelopment\Javascript_labo_2\Opdracht_Substring_Screenshots" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\arnew\Documents\GitHub\WebDevelopment\JavaScript_labo_6\Opdracht_Nodes\Opdracht_1" />
       <recent name="C:\Users\arnew\Documents\GitHub\WebDevelopment\Javascript_labo_2\Opdracht_Substring_Screenshots\Images" />
       <recent name="C:\Users\arnew\Documents\GitHub\WebDevelopment\Styles homepage" />
       <recent name="C:\Users\arnew\Documents\GitHub\WebDevelopment\labo_4\opdracht_5\images" />
@@ -183,6 +207,10 @@
       <workItem from="1678900746231" duration="387000" />
       <workItem from="1678947947125" duration="1978000" />
       <workItem from="1679057890536" duration="12387000" />
+      <workItem from="1679493041785" duration="5135000" />
+      <workItem from="1679498461060" duration="2346000" />
+      <workItem from="1679656432917" duration="5217000" />
+      <workItem from="1679736096643" duration="4661000" />
     </task>
     <task id="LOCAL-00001" summary="Second commit">
       <created>1665306611023</created>

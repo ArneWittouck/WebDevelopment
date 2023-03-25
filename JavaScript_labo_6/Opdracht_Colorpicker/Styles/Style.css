@@ -1,0 +1,56 @@
+body {
+    margin-top: 10px;
+    font-family: Arial, sans-serif;
+}
+
+div.omranding {
+    border: lightgray 5px solid;
+    border-radius: 7px;
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr 0.5fr;
+    width: 450px;
+    height: 100px;
+}
+
+ul {
+    list-style-type: none;
+    padding-left: 20px;
+}
+
+.colorDemo {
+    width:100px;
+    height:90px;
+    border:1px solid black;
+    text-align: center;
+    margin: 5px 5px;
+}
+
+p {
+    margin: 2px;
+}
+
+button {
+    margin-top: 70px;
+    height: 25px;
+    width: 50px;
+}
+
+div.savedColor {
+    height: 100px;
+    width: 100px;
+    border: black solid 2px;
+}
+
+div.savedColors {
+    margin-top: 20px;
+    height: 110px;
+    display: flex;
+    gap: 1em;
+}
+
+button.closeButton {
+    height: 30px;
+    width: 30px;
+    float: right;
+    margin-top: 0;
+}
