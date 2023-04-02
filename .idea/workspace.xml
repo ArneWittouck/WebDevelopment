@@ -7,31 +7,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="08705620-3cc0-439a-8fe9-46dfecadd001" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/JavaScript_labo_7/BeginSituatie_HitAnObject/images/0.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JavaScript_labo_7/BeginSituatie_HitAnObject/images/1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JavaScript_labo_7/BeginSituatie_HitAnObject/images/2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JavaScript_labo_7/BeginSituatie_HitAnObject/images/3.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JavaScript_labo_7/BeginSituatie_HitAnObject/images/4.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JavaScript_labo_7/BeginSituatie_HitAnObject/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JavaScript_labo_7/BeginSituatie_HitAnObject/scripts/code.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JavaScript_labo_7/BeginSituatie_HitAnObject/styles/style.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JavaScript_labo_7/Memory/images/Correct.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JavaScript_labo_7/Memory/images/achterkant.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JavaScript_labo_7/Memory/images/kaart1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JavaScript_labo_7/Memory/images/kaart2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JavaScript_labo_7/Memory/images/kaart3.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JavaScript_labo_7/Memory/images/kaart4.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JavaScript_labo_7/Memory/images/kaart5.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JavaScript_labo_7/Memory/images/kaart6.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JavaScript_labo_7/Memory/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JavaScript_labo_7/Memory/scripts/code.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JavaScript_labo_7/Memory/styles/style.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JavaScript_labo_7/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/JavaScript_labo_6/Opdracht_Colorpicker/Scripts/JavaScript.js" beforeDir="false" afterPath="$PROJECT_DIR$/JavaScript_labo_6/Opdracht_Colorpicker/Scripts/JavaScript.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-    </list>
+    <list default="true" id="08705620-3cc0-439a-8fe9-46dfecadd001" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -217,7 +193,7 @@
       <workItem from="1680094198907" duration="168000" />
       <workItem from="1680177696078" duration="6942000" />
       <workItem from="1680373350406" duration="5665000" />
-      <workItem from="1680423572098" duration="14261000" />
+      <workItem from="1680423572098" duration="14485000" />
     </task>
     <task id="LOCAL-00001" summary="Second commit">
       <created>1665306611023</created>
@@ -513,7 +489,14 @@
       <option name="project" value="LOCAL" />
       <updated>1679741466147</updated>
     </task>
-    <option name="localTasksCounter" value="43" />
+    <task id="LOCAL-00043" summary="JS Labo 7, 1st commit">
+      <created>1680451261593</created>
+      <option name="number" value="00043" />
+      <option name="presentableId" value="LOCAL-00043" />
+      <option name="project" value="LOCAL" />
+      <updated>1680451261593</updated>
+    </task>
+    <option name="localTasksCounter" value="44" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -532,7 +515,6 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
-    <MESSAGE value="Gastles Opdracht commit 3" />
     <MESSAGE value="Gastles Opdracht commit 4" />
     <MESSAGE value="CSS Labo 4 commit 1" />
     <MESSAGE value="CSS Labo 4 commit 2" />
@@ -557,7 +539,8 @@
     <MESSAGE value="JS Labo 4, 1st commit" />
     <MESSAGE value="JS Labo 5, 1st commit" />
     <MESSAGE value="JS Labo 6, 1st commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="JS Labo 6, 1st commit" />
+    <MESSAGE value="JS Labo 7, 1st commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="JS Labo 7, 1st commit" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
