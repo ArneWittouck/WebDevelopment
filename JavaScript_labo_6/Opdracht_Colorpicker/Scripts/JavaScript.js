@@ -91,4 +91,7 @@ const selectColor = (event) => {
 
 }
 
+// Console.time
+// Console.timeEnd ofz
+
 window.addEventListener('load', setup);

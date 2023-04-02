@@ -1,0 +1,25 @@
+#playField{
+    height: 500px;
+    width: 800px;
+    border: solid black 5px;
+    margin: 50px auto;
+    position: relative;
+}
+
+
+#target {
+    position: absolute;
+}
+
+p {
+    margin: 0;
+}
+
+#gameOver {
+    font-size: 200px;
+    float: top;
+    text-align: center;
+    font-family: Arial, sans-serif;
+    font-weight: bold;
+    color: red;
+}

@@ -1,0 +1,24 @@
+#playField{
+    height: 450px;
+    width: 600px;
+    border: solid black 5px;
+    margin: 50px auto 10px auto;
+    position: relative;
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+    grid-template-rows: repeat(3, 1fr);
+}
+
+
+#gameOver {
+    font-size: 150px;
+    float: top;
+    text-align: center;
+    font-family: Arial, sans-serif;
+    font-weight: bold;
+    color: darkgreen;
+}
+
+p {
+    margin: 0;
+}

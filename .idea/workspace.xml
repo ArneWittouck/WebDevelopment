@@ -8,27 +8,28 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="08705620-3cc0-439a-8fe9-46dfecadd001" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/JavaScript_labo_6/Opdracht_Colorpicker/Scripts/JavaScript.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JavaScript_labo_6/Opdracht_Colorpicker/Styles/Style.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JavaScript_labo_6/Opdracht_Colorpicker/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JavaScript_labo_6/Opdracht_Nodes/Opdracht_1/Scripts/JavaScript.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JavaScript_labo_6/Opdracht_Nodes/Opdracht_1/Styles/Style.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JavaScript_labo_6/Opdracht_Nodes/Opdracht_1/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JavaScript_labo_6/Opdracht_Nodes/Opdracht_2/Scripts/JavaScript.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JavaScript_labo_6/Opdracht_Nodes/Opdracht_2/Styles/Style.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JavaScript_labo_6/Opdracht_Nodes/Opdracht_2/images/Person_icon_BLACK-01.svg.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JavaScript_labo_6/Opdracht_Nodes/Opdracht_2/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JavaScript_labo_6/Opdracht_Nodes/Opdracht_3/Scripts/JavaScript.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JavaScript_labo_6/Opdracht_Nodes/Opdracht_3/Styles/Style.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JavaScript_labo_6/Opdracht_Nodes/Opdracht_3/images/Person_icon_BLACK-01.svg.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JavaScript_labo_6/Opdracht_Nodes/Opdracht_3/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JavaScript_labo_6/Opdracht_Nodes/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JavaScript_labo_6/demo event bubbling/demo event bubbling/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JavaScript_labo_6/demo event bubbling/demo event bubbling/scripts/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JavaScript_labo_6/demo event bubbling/demo event bubbling/styles/index.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JavaScript_labo_6/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaScript_labo_7/BeginSituatie_HitAnObject/images/0.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaScript_labo_7/BeginSituatie_HitAnObject/images/1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaScript_labo_7/BeginSituatie_HitAnObject/images/2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaScript_labo_7/BeginSituatie_HitAnObject/images/3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaScript_labo_7/BeginSituatie_HitAnObject/images/4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaScript_labo_7/BeginSituatie_HitAnObject/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaScript_labo_7/BeginSituatie_HitAnObject/scripts/code.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaScript_labo_7/BeginSituatie_HitAnObject/styles/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaScript_labo_7/Memory/images/Correct.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaScript_labo_7/Memory/images/achterkant.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaScript_labo_7/Memory/images/kaart1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaScript_labo_7/Memory/images/kaart2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaScript_labo_7/Memory/images/kaart3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaScript_labo_7/Memory/images/kaart4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaScript_labo_7/Memory/images/kaart5.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaScript_labo_7/Memory/images/kaart6.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaScript_labo_7/Memory/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaScript_labo_7/Memory/scripts/code.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaScript_labo_7/Memory/styles/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaScript_labo_7/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Styles_global/Style_homepage.css" beforeDir="false" afterPath="$PROJECT_DIR$/Styles_global/Style_homepage.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaScript_labo_6/Opdracht_Colorpicker/Scripts/JavaScript.js" beforeDir="false" afterPath="$PROJECT_DIR$/JavaScript_labo_6/Opdracht_Colorpicker/Scripts/JavaScript.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -59,32 +60,32 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
-    &quot;DefaultHtmlFileTemplate&quot;: &quot;HTML File&quot;,
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/arnew/Documents/GitHub/WebDevelopment/JavaScript_labo_6&quot;,
-    &quot;list.type.of.created.stylesheet&quot;: &quot;CSS&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;run.code.analysis.last.selected.profile&quot;: &quot;pProject Default&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;project.propVCSSupport.DirectoryMappings&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
+    "DefaultHtmlFileTemplate": "HTML File",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "C:/Users/arnew/Documents/GitHub/WebDevelopment/JavaScript_labo_7",
+    "list.type.of.created.stylesheet": "CSS",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "run.code.analysis.last.selected.profile": "pProject Default",
+    "settings.editor.selected.configurable": "project.propVCSSupport.DirectoryMappings",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\arnew\Documents\GitHub\WebDevelopment\JavaScript_labo_7" />
+      <recent name="C:\Users\arnew\Documents\GitHub\WebDevelopment" />
       <recent name="C:\Users\arnew\Documents\GitHub\WebDevelopment\JavaScript_labo_6" />
       <recent name="C:\Users\arnew\Documents\GitHub\WebDevelopment\JavaScript_labo_6\Opdracht_Nodes" />
-      <recent name="C:\Users\arnew\Documents\GitHub\WebDevelopment" />
       <recent name="C:\Users\arnew\Documents\GitHub\WebDevelopment\JavaScript_labo_5" />
-      <recent name="C:\Users\arnew\Documents\GitHub\WebDevelopment\JavaScript_labo_4" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\arnew\Documents\GitHub\WebDevelopment\JavaScript_labo_6\Opdracht_Nodes\Opdracht_1" />
@@ -210,7 +211,13 @@
       <workItem from="1679493041785" duration="5135000" />
       <workItem from="1679498461060" duration="2346000" />
       <workItem from="1679656432917" duration="5217000" />
-      <workItem from="1679736096643" duration="4661000" />
+      <workItem from="1679736096643" duration="4911000" />
+      <workItem from="1680091459619" duration="40000" />
+      <workItem from="1680092475493" duration="1575000" />
+      <workItem from="1680094198907" duration="168000" />
+      <workItem from="1680177696078" duration="6942000" />
+      <workItem from="1680373350406" duration="5665000" />
+      <workItem from="1680423572098" duration="14261000" />
     </task>
     <task id="LOCAL-00001" summary="Second commit">
       <created>1665306611023</created>
@@ -499,7 +506,14 @@
       <option name="project" value="LOCAL" />
       <updated>1679071314456</updated>
     </task>
-    <option name="localTasksCounter" value="42" />
+    <task id="LOCAL-00042" summary="JS Labo 6, 1st commit">
+      <created>1679741466147</created>
+      <option name="number" value="00042" />
+      <option name="presentableId" value="LOCAL-00042" />
+      <option name="project" value="LOCAL" />
+      <updated>1679741466147</updated>
+    </task>
+    <option name="localTasksCounter" value="43" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -518,7 +532,6 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
-    <MESSAGE value="Gastles Opdracht commit 2" />
     <MESSAGE value="Gastles Opdracht commit 3" />
     <MESSAGE value="Gastles Opdracht commit 4" />
     <MESSAGE value="CSS Labo 4 commit 1" />
@@ -543,7 +556,8 @@
     <MESSAGE value="JS Labo 3, 1st commit" />
     <MESSAGE value="JS Labo 4, 1st commit" />
     <MESSAGE value="JS Labo 5, 1st commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="JS Labo 5, 1st commit" />
+    <MESSAGE value="JS Labo 6, 1st commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="JS Labo 6, 1st commit" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
