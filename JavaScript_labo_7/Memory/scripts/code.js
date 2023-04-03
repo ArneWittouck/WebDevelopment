@@ -43,10 +43,13 @@ const kaartOmdraaien = (event) => {
             global.kaart_1 = event.target;
         } else if (global.kaart_2 === null) {
             global.kaart_2 = event.target;
-            if (global.kaart_1.getAttribute("src") === global.kaart_2.getAttribute("src")) {
+            if (global.kaart_1.getAttribute("src") === global.kaart_2.getAttribute("src") &&
+            global.kaart_1.getAttribute("id") !== global.kaart_2.getAttribute("id")) {
                 global.timeout = setTimeout(kaartenMatch, 1500);
-            } else {
+            } else if (global.kaart_1.getAttribute("id") !== global.kaart_2.getAttribute("id")) {
                 global.timeout = setTimeout(kaartenTerugDraaien, 1500);
+            } else {
+                global.kaart_2 = null;
             }
         }
     }
