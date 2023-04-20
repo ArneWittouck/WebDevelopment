@@ -22,8 +22,8 @@ const randomObjectInvoegen = () => {
     object.setAttribute("src", "images/" + randomImageWaarde + ".png");
     object.setAttribute("alt", "targetObject");
     object.setAttribute("id", "target");
-    object.setAttribute("style", "top: " + Math.floor(Math.random()*450) + "px; left: "
-        + Math.floor(Math.random()*750) + "px");
+    object.setAttribute("style", "top: " + Math.floor(Math.random()*350) + "px; left: "
+        + Math.floor(Math.random()*650) + "px");
     object.addEventListener("click", clickedTarget);
     field.appendChild(object);
     if (randomImageWaarde === 0) {
