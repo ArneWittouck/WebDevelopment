@@ -7,10 +7,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="08705620-3cc0-439a-8fe9-46dfecadd001" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/JavaScript_labo_9/Opdracht_Colorpicker/Scripts/JavaScript.js" beforeDir="false" afterPath="$PROJECT_DIR$/JavaScript_labo_9/Opdracht_Colorpicker/Scripts/JavaScript.js" afterDir="false" />
-    </list>
+    <list default="true" id="08705620-3cc0-439a-8fe9-46dfecadd001" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -205,7 +202,7 @@
       <workItem from="1682511058294" duration="335000" />
       <workItem from="1682513091720" duration="8371000" />
       <workItem from="1683096787453" duration="646000" />
-      <workItem from="1683101321007" duration="658000" />
+      <workItem from="1683101321007" duration="797000" />
     </task>
     <task id="LOCAL-00001" summary="Second commit">
       <created>1665306611023</created>
@@ -529,7 +526,14 @@
       <option name="project" value="LOCAL" />
       <updated>1683096840074</updated>
     </task>
-    <option name="localTasksCounter" value="47" />
+    <task id="LOCAL-00047" summary="JS Labo 8, 2nd commit">
+      <created>1683102120998</created>
+      <option name="number" value="00047" />
+      <option name="presentableId" value="LOCAL-00047" />
+      <option name="project" value="LOCAL" />
+      <updated>1683102120998</updated>
+    </task>
+    <option name="localTasksCounter" value="48" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -548,7 +552,6 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
-    <MESSAGE value="CSS Labo 4 commit 3" />
     <MESSAGE value="CSS Labo 4 commit 4" />
     <MESSAGE value="CSS Labo 5 commit 1" />
     <MESSAGE value="CSS Labo 5 commit 2" />
@@ -573,7 +576,8 @@
     <MESSAGE value="JS Labo 7, 2nd commit (minor fixes)" />
     <MESSAGE value="JS Labo 7, 3rd commit (bug fixed)" />
     <MESSAGE value="JS Labo 8, 1st commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="JS Labo 8, 1st commit" />
+    <MESSAGE value="JS Labo 8, 2nd commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="JS Labo 8, 2nd commit" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
