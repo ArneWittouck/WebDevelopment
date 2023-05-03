@@ -6,7 +6,15 @@ const bewaarBewerktePersoon = () => {
     valideer();
     let elements = document.querySelectorAll(".invalid");
     if (elements.length === 0){
+        let lstPersonen = document.getElementById("lstPersonen");
+        let persoon = {};
+        if (lstPersonen.selectedIndex == -1){
+            vulPersoonOpBasisVanUserInterface(persoon);
+            personen.push(persoon);
+            voegPersoonToeAanLijstInUserInterface(persoon);
+        } else {
 
+        }
     }
     // indien ok, bewaar de ingegeven data.
         // een nieuw aangemaakte persoon voegen we toe
@@ -35,5 +43,9 @@ const setup = () => {
     // voeg een change listener toe aan lstPersonen. Bij het klikken op een option element in de lijst
     // moet de data van die persoon getoond worden in het formulier
 };
+
+const updatePersoonInLijstInUserInterface = (persoon) => {
+    let lstPersonen = document.getElementById("lstPersonen");
+}
 
 window.addEventListener("load", setup);
