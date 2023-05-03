@@ -8,13 +8,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="08705620-3cc0-439a-8fe9-46dfecadd001" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/JavaScript_labo_9/Opdracht_Colorpicker/Scripts/JavaScript.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JavaScript_labo_9/Opdracht_Colorpicker/Styles/Style.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JavaScript_labo_9/Opdracht_Colorpicker/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JavaScript_labo_9/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/JavaScript_labo_8/Opdracht_Contact_Manager/start contact manager opdracht/scripts/code.js" beforeDir="false" afterPath="$PROJECT_DIR$/JavaScript_labo_8/Opdracht_Contact_Manager/start contact manager opdracht/scripts/code.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaScript_labo_9/Opdracht_Colorpicker/Scripts/JavaScript.js" beforeDir="false" afterPath="$PROJECT_DIR$/JavaScript_labo_9/Opdracht_Colorpicker/Scripts/JavaScript.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -44,25 +39,25 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "ASKED_ADD_EXTERNAL_FILES": "true",
-    "DefaultHtmlFileTemplate": "HTML File",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "C:/Users/arnew/Documents/GitHub/WebDevelopment/JavaScript_labo_9",
-    "list.type.of.created.stylesheet": "CSS",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "run.code.analysis.last.selected.profile": "pProject Default",
-    "settings.editor.selected.configurable": "project.propVCSSupport.DirectoryMappings",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
+    &quot;DefaultHtmlFileTemplate&quot;: &quot;HTML File&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/arnew/Documents/GitHub/WebDevelopment/JavaScript_labo_9&quot;,
+    &quot;list.type.of.created.stylesheet&quot;: &quot;CSS&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;run.code.analysis.last.selected.profile&quot;: &quot;pProject Default&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;project.propVCSSupport.DirectoryMappings&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\arnew\Documents\GitHub\WebDevelopment\JavaScript_labo_9" />
@@ -209,6 +204,8 @@
       <workItem from="1681906832372" duration="9656000" />
       <workItem from="1682511058294" duration="335000" />
       <workItem from="1682513091720" duration="8371000" />
+      <workItem from="1683096787453" duration="646000" />
+      <workItem from="1683101321007" duration="658000" />
     </task>
     <task id="LOCAL-00001" summary="Second commit">
       <created>1665306611023</created>
@@ -525,7 +522,14 @@
       <option name="project" value="LOCAL" />
       <updated>1680537881968</updated>
     </task>
-    <option name="localTasksCounter" value="46" />
+    <task id="LOCAL-00046" summary="JS Labo 8, 1st commit">
+      <created>1683096840074</created>
+      <option name="number" value="00046" />
+      <option name="presentableId" value="LOCAL-00046" />
+      <option name="project" value="LOCAL" />
+      <updated>1683096840074</updated>
+    </task>
+    <option name="localTasksCounter" value="47" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -544,7 +548,6 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
-    <MESSAGE value="CSS Labo 4 commit 2" />
     <MESSAGE value="CSS Labo 4 commit 3" />
     <MESSAGE value="CSS Labo 4 commit 4" />
     <MESSAGE value="CSS Labo 5 commit 1" />
@@ -569,7 +572,8 @@
     <MESSAGE value="JS Labo 7, 1st commit" />
     <MESSAGE value="JS Labo 7, 2nd commit (minor fixes)" />
     <MESSAGE value="JS Labo 7, 3rd commit (bug fixed)" />
-    <option name="LAST_COMMIT_MESSAGE" value="JS Labo 7, 3rd commit (bug fixed)" />
+    <MESSAGE value="JS Labo 8, 1st commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="JS Labo 8, 1st commit" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>

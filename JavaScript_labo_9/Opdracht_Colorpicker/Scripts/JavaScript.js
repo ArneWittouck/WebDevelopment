@@ -7,9 +7,9 @@ const setup = () => {
         sliders[i].addEventListener("change", update);
         sliders[i].addEventListener("input", update);
     }
-    update();
     restoreSliders();
     restoreSavedColors();
+    update();
 }
 
 const update = () => {
@@ -174,8 +174,6 @@ const restoreSliders = () => {
         sliders[0].value = valueArray[0];
         sliders[1].value = valueArray[1];
         sliders[2].value = valueArray[2];
-    } else {
-        restoreSliders();
     }
 }
 
