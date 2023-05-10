@@ -7,7 +7,17 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="08705620-3cc0-439a-8fe9-46dfecadd001" name="Changes" comment="" />
+    <list default="true" id="08705620-3cc0-439a-8fe9-46dfecadd001" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/JavaScript_labo_10/Opdracht_My_Internet_Start_Page/Scripts/JavaScript.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaScript_labo_10/Opdracht_My_Internet_Start_Page/Styles/Style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaScript_labo_10/Opdracht_My_Internet_Start_Page/Styles/bootstrap-grid.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaScript_labo_10/Opdracht_My_Internet_Start_Page/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaScript_labo_10/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaScript_labo_9/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/JavaScript_labo_9/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Styles_global/Style_homepage.css" beforeDir="false" afterPath="$PROJECT_DIR$/Styles_global/Style_homepage.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -43,7 +53,7 @@
     &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/arnew/Documents/GitHub/WebDevelopment/JavaScript_labo_9&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/arnew/Documents/GitHub/WebDevelopment/JavaScript_labo_10/Opdracht_My_Internet_Start_Page/Styles&quot;,
     &quot;list.type.of.created.stylesheet&quot;: &quot;CSS&quot;,
     &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
     &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
@@ -57,11 +67,11 @@
 }</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
-      <recent name="C:\Users\arnew\Documents\GitHub\WebDevelopment\JavaScript_labo_9" />
+      <recent name="C:\Users\arnew\Documents\GitHub\WebDevelopment\JavaScript_labo_10\Opdracht_My_Internet_Start_Page\Styles" />
       <recent name="C:\Users\arnew\Documents\GitHub\WebDevelopment" />
+      <recent name="C:\Users\arnew\Documents\GitHub\WebDevelopment\JavaScript_labo_9" />
       <recent name="C:\Users\arnew\Documents\GitHub\WebDevelopment\JavaScript_labo_8" />
       <recent name="C:\Users\arnew\Documents\GitHub\WebDevelopment\JavaScript_labo_7" />
-      <recent name="C:\Users\arnew\Documents\GitHub\WebDevelopment\JavaScript_labo_6" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\arnew\Documents\GitHub\WebDevelopment\JavaScript_labo_9" />
@@ -203,6 +213,10 @@
       <workItem from="1682513091720" duration="8371000" />
       <workItem from="1683096787453" duration="646000" />
       <workItem from="1683101321007" duration="797000" />
+      <workItem from="1683115045375" duration="10812000" />
+      <workItem from="1683706623110" duration="2563000" />
+      <workItem from="1683714436784" duration="4255000" />
+      <workItem from="1683727582753" duration="5873000" />
     </task>
     <task id="LOCAL-00001" summary="Second commit">
       <created>1665306611023</created>

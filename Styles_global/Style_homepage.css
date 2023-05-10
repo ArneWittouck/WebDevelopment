@@ -53,7 +53,7 @@ section {
 
 div {
     display: grid;
-    grid-template-columns: repeat(2, 130px);
+    grid-template-columns: repeat(2, 160px);
     margin: 0 auto;
 }
 
@@ -75,12 +75,12 @@ div {
         font-size: 16px;
         text-decoration: none;
         font-weight: bold;
-        width: 52px;
+        width: 65px;
         height: 20px;
     }
 }
 
-@media (min-width: 1270px){
+@media (min-width: 1285px){
     main {
         display: grid;
         grid-template-columns: 1fr 1fr 1fr;
@@ -98,7 +98,7 @@ div {
         font-size: 16px;
         text-decoration: none;
         font-weight: bold;
-        width: 52px;
+        width: 65px;
         height: 20px;
     }
 }
