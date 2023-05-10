@@ -7,17 +7,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="08705620-3cc0-439a-8fe9-46dfecadd001" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/JavaScript_labo_10/Opdracht_My_Internet_Start_Page/Scripts/JavaScript.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JavaScript_labo_10/Opdracht_My_Internet_Start_Page/Styles/Style.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JavaScript_labo_10/Opdracht_My_Internet_Start_Page/Styles/bootstrap-grid.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JavaScript_labo_10/Opdracht_My_Internet_Start_Page/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JavaScript_labo_10/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/JavaScript_labo_9/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/JavaScript_labo_9/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Styles_global/Style_homepage.css" beforeDir="false" afterPath="$PROJECT_DIR$/Styles_global/Style_homepage.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-    </list>
+    <list default="true" id="08705620-3cc0-439a-8fe9-46dfecadd001" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -216,7 +206,7 @@
       <workItem from="1683115045375" duration="10812000" />
       <workItem from="1683706623110" duration="2563000" />
       <workItem from="1683714436784" duration="4255000" />
-      <workItem from="1683727582753" duration="5873000" />
+      <workItem from="1683727582753" duration="5896000" />
     </task>
     <task id="LOCAL-00001" summary="Second commit">
       <created>1665306611023</created>
@@ -547,7 +537,14 @@
       <option name="project" value="LOCAL" />
       <updated>1683102120998</updated>
     </task>
-    <option name="localTasksCounter" value="48" />
+    <task id="LOCAL-00048" summary="JS Labo 10, 1st commit">
+      <created>1683733798064</created>
+      <option name="number" value="00048" />
+      <option name="presentableId" value="LOCAL-00048" />
+      <option name="project" value="LOCAL" />
+      <updated>1683733798064</updated>
+    </task>
+    <option name="localTasksCounter" value="49" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -566,7 +563,6 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
-    <MESSAGE value="CSS Labo 4 commit 4" />
     <MESSAGE value="CSS Labo 5 commit 1" />
     <MESSAGE value="CSS Labo 5 commit 2" />
     <MESSAGE value="CSS Labo 5 commit 3" />
@@ -591,7 +587,8 @@
     <MESSAGE value="JS Labo 7, 3rd commit (bug fixed)" />
     <MESSAGE value="JS Labo 8, 1st commit" />
     <MESSAGE value="JS Labo 8, 2nd commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="JS Labo 8, 2nd commit" />
+    <MESSAGE value="JS Labo 10, 1st commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="JS Labo 10, 1st commit" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
