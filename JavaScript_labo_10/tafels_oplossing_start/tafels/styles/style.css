@@ -1,0 +1,50 @@
+body {
+    font-family: Arial, serif;
+}
+
+
+
+.outerDiv {
+    border: solid black 2px;
+    width: 300px;
+    margin-top: 50px;
+}
+
+.divHeader {
+    background-color: #2B2D42;
+    color: white;
+    margin: 0;
+    height: 40px;
+}
+
+.divHeader > p {
+    margin: 0;
+    text-align: center;
+    padding-top: 10px;
+}
+
+.itemDiv {
+    margin: 0;
+    height: 35px;
+}
+
+.itemDiv > p {
+    margin: 0 0 0 15px;
+    padding-top: 8px;
+}
+
+td {
+    border: 1px solid black;
+}
+
+#tablesDiv {
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+    margin: 20px 50px;
+}
+
+
+
+
+
+
