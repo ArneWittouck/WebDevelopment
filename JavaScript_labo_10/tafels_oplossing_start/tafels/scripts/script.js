@@ -1,12 +1,24 @@
 const setup = () => {
     let button = document.querySelector("#goButton");
     button.addEventListener("click", validate);
+
+    let input = document.querySelector("#input");
+    input.focus();
+    input.addEventListener("keypress", checkIfEnter);
+}
+
+const checkIfEnter = (event) => {
+    let key = event.key;
+    if (key === "Enter") {
+        validate();
+    }
+
 }
 
 const validate = () => {
     let input = document.querySelector("#input");
     let inputValue = input.value;
-    if (isNaN(inputValue) === true) {
+    if (isNaN(inputValue) === true || inputValue === "") {
         window.alert("Error: Je moet een getal ingeven.")
     } else {
         generateTafel();
@@ -50,6 +62,8 @@ const generateTafel = () => {
     }
 
     tablesDiv.appendChild(outerDiv);
+
+    input.focus();
 }
 
 

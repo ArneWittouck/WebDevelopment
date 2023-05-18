@@ -192,4 +192,6 @@ const clearSearchHistory = () => {
     }
 }
 
+// Slice, pop en shift kunnen gebruikt worden om array elementen te verwijderen.
+
 window.addEventListener('load', setup);
