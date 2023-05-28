@@ -7,14 +7,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="08705620-3cc0-439a-8fe9-46dfecadd001" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Examen Oefeningen/Oefening_Eindexamen/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Examen Oefeningen/Oefening_Eindexamen/scripts/script.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Examen Oefeningen/Oefening_Eindexamen/styles/style.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Styles_global/Style_homepage.css" beforeDir="false" afterPath="$PROJECT_DIR$/Styles_global/Style_homepage.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-    </list>
+    <list default="true" id="08705620-3cc0-439a-8fe9-46dfecadd001" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -225,14 +218,7 @@
       <workItem from="1684503345190" duration="4463000" />
       <workItem from="1684915053240" duration="3949000" />
       <workItem from="1685108777079" duration="9639000" />
-      <workItem from="1685270212577" duration="1382000" />
-    </task>
-    <task id="LOCAL-00002" summary="Second commit">
-      <created>1665306818837</created>
-      <option name="number" value="00002" />
-      <option name="presentableId" value="LOCAL-00002" />
-      <option name="project" value="LOCAL" />
-      <updated>1665306818837</updated>
+      <workItem from="1685270212577" duration="1415000" />
     </task>
     <task id="LOCAL-00003" summary="Second commit">
       <created>1665581729524</created>
@@ -570,7 +556,14 @@
       <option name="project" value="LOCAL" />
       <updated>1684414092210</updated>
     </task>
-    <option name="localTasksCounter" value="51" />
+    <task id="LOCAL-00051" summary="Ex Oef, 1st commit">
+      <created>1685282473411</created>
+      <option name="number" value="00051" />
+      <option name="presentableId" value="LOCAL-00051" />
+      <option name="project" value="LOCAL" />
+      <updated>1685282473412</updated>
+    </task>
+    <option name="localTasksCounter" value="52" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -589,7 +582,6 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
-    <MESSAGE value="CSS Labo 5 commit 2" />
     <MESSAGE value="CSS Labo 5 commit 3" />
     <MESSAGE value="CSS Labo 6 commit 1" />
     <MESSAGE value="CSS Labo 6 commit 2" />
@@ -614,7 +606,8 @@
     <MESSAGE value="JS Labo 8, 2nd commit" />
     <MESSAGE value="JS Labo 10, 1st commit" />
     <MESSAGE value="JS Labo 10, 2nd commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="JS Labo 10, 2nd commit" />
+    <MESSAGE value="Ex Oef, 1st commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="Ex Oef, 1st commit" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
