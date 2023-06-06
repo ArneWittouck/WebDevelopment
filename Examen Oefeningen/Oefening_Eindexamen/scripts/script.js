@@ -8,13 +8,16 @@ const setup = () => {
     addDiv.addEventListener("click", convertToForm);
 
     let wisButton = document.querySelector("#wisAlleTaken");
-    wisButton.addEventListener("click", wisAlleTaken);
+    wisButton.addEventListener("click", wisAlleTakenEnLocalStorage);
 
     let sortButton = document.querySelector("#sorteer");
     sortButton.addEventListener("click", sortByDate);
 
     let hideButton = document.querySelector("#hidePast");
     hideButton.addEventListener("click", hideOrShow);
+
+    loadFromLocalStorage();
+    colorOutOfDate();
 }
 
 const convertToForm = () => {
@@ -68,12 +71,22 @@ const convertToForm = () => {
         saveButton.appendChild(saveButtonText);
         addDiv.appendChild(saveButton);
 
-        saveButton.addEventListener("click", saveTask);
+        saveButton.addEventListener("click", validate);
     }
 }
 
-const saveTask = (event) => {
+const validate = (event) => {
     event.stopPropagation();
+    let taskName = document.querySelector("#txtTask").value
+    let taskDate = document.querySelector("#dateTask").value;
+    if (taskName !== "" && taskDate !== "") {
+        saveTask();
+    } else {
+        window.alert("Onvoldoende gegevens: Titel en datum verplicht!");
+    }
+}
+
+const saveTask = () => {
     let newTask = document.createElement("div");
     newTask.setAttribute("class", "task");
     let taskContainer = document.querySelector(".taskContainer");
@@ -83,7 +96,9 @@ const saveTask = (event) => {
     let taskDate = document.querySelector("#dateTask").value;
     let taskDescription = document.querySelector("#txtDescription").value;
 
+    newTask.setAttribute("data-title", taskName);
     newTask.setAttribute("data-date", taskDate);
+    newTask.setAttribute("data-description", taskDescription);
 
     let taskTitle = document.createElement("h2");
     let taskTitleTextNode = document.createTextNode(taskName);
@@ -107,6 +122,8 @@ const saveTask = (event) => {
     newTask.appendChild(doneButton);
 
     restorePlusDiv();
+    saveToLocalStorage();
+    colorOutOfDate();
 }
 
 const restorePlusDiv = () => {
@@ -126,9 +143,13 @@ const doneFunction = (event) => {
     if (taskClass.includes("done")) {
         taskClass = taskClass.replace("done", "");
         task.setAttribute("class", taskClass);
+        colorOutOfDate();
+        task.setAttribute("data-done", "");
     } else {
-        task.setAttribute("class", taskClass + " done");
+        task.setAttribute("class", "task done");
+        task.setAttribute("data-done", "done");
     }
+    saveToLocalStorage();
 }
 
 const wisAlleTaken = () => {
@@ -136,6 +157,11 @@ const wisAlleTaken = () => {
     for (let i = 0; i < alleTaken.length; i++) {
         alleTaken[i].remove();
     }
+}
+
+const wisAlleTakenEnLocalStorage = () => {
+    wisAlleTaken();
+    localStorage.clear();
 }
 
 const sortByDate = () => {
@@ -161,6 +187,7 @@ const sortByDate = () => {
     for (let i = 0; i < sortedTasks.length; i++) {
         taskContainer.appendChild(sortedTasks[i]);
     }
+    saveToLocalStorage();
 }
 
 const hideOrShow = () => {
@@ -194,9 +221,101 @@ const showPastTasks = () => {
     }
 
     global.hidden = false;
+    colorOutOfDate();
 }
 
+const saveToLocalStorage = () => {
+    let allTasks = document.querySelectorAll(".task");
+    let localStorageTaskArray = [];
+    for (let i = 0; i < allTasks.length; i++) {
+        let task = [];
+        let title = allTasks[i].getAttribute("data-title");
+        let date = allTasks[i].getAttribute("data-date");
+        let description = allTasks[i].getAttribute("data-description");
+        let done = allTasks[i].getAttribute("data-done");
+        task.push(title);
+        task.push(date);
+        task.push(description);
+        task.push(done);
+        let taskString = JSON.stringify(task);
+        localStorageTaskArray.push(taskString);
+    }
 
+    let localStorageTaskArrayString = JSON.stringify(localStorageTaskArray);
+    localStorage.setItem("Tasks", localStorageTaskArrayString);
+}
 
+const loadFromLocalStorage = () => {
+    let stringyStorageTasks = JSON.parse(localStorage.getItem("Tasks"));
+    let storageTasks = []
+    for (let i = 0; i < stringyStorageTasks.length; i++) {
+        storageTasks.push(JSON.parse(stringyStorageTasks[i]));
+    }
+
+    console.log(storageTasks);
+
+    let taskContainer = document.querySelector(".taskContainer");
+    for (let i = 0; i < storageTasks.length; i++) {
+        let newTask = document.createElement("div");
+        taskContainer.appendChild(newTask);
+        let thisTask = storageTasks[i];
+
+        let taskName = thisTask[0];
+        let taskDate = thisTask[1];
+        let taskDescription = thisTask[2];
+        let dataDone = thisTask[3];
+
+        if (dataDone === "" || dataDone === null) {
+            newTask.setAttribute("class", "task");
+        } else if (dataDone === "done") {
+            newTask.setAttribute("class", "task done");
+        }
+
+        newTask.setAttribute("data-title", taskName);
+        newTask.setAttribute("data-date", taskDate);
+        newTask.setAttribute("data-description", taskDescription);
+        newTask.setAttribute("data-done", dataDone);
+
+        let taskTitle = document.createElement("h2");
+        let taskTitleTextNode = document.createTextNode(taskName);
+        taskTitle.appendChild(taskTitleTextNode);
+        newTask.appendChild(taskTitle);
+
+        let taskDescriptionP = document.createElement("p");
+        let taskDescriptionTextNode = document.createTextNode(taskDescription);
+        taskDescriptionP.appendChild(taskDescriptionTextNode);
+        newTask.appendChild(taskDescriptionP);
+
+        let taskDateP = document.createElement("p");
+        let taskDateTextNode = document.createTextNode(taskDate);
+        taskDateP.appendChild(taskDateTextNode);
+        newTask.appendChild(taskDateP);
+
+        let doneButton = document.createElement("button");
+        let doneButtonText = document.createTextNode("Done");
+        doneButton.appendChild(doneButtonText);
+        doneButton.addEventListener("click", doneFunction);
+        newTask.appendChild(doneButton);
+    }
+}
+
+const colorOutOfDate = () => {
+    let alleTaken = document.querySelectorAll(".task");
+    let now = new Date();
+    let listOfAllDates = [];
+    for (let i = 0; i < alleTaken.length; i++) {
+        listOfAllDates.push(alleTaken[i].getAttribute("data-date"));
+        let taskDate = new Date(listOfAllDates[i]);
+        console.log(taskDate.getTime());
+        if (taskDate.getTime() < now.getTime()) {
+            let taskClass = alleTaken[i].getAttribute("class");
+            if (!taskClass.includes("past") && !taskClass.includes("done")) {
+                let newClass = taskClass + " past";
+                alleTaken[i].setAttribute("class", newClass);
+            }
+        }
+    }
+    saveToLocalStorage();
+}
 
 window.addEventListener("load", setup);

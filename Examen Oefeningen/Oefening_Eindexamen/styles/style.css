@@ -78,3 +78,7 @@ button {
 .done {
     background-color: lightgreen;
 }
+
+.past {
+    background-color: indianred;
+}
