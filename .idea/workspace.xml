@@ -222,21 +222,7 @@
       <workItem from="1684915053240" duration="3949000" />
       <workItem from="1685108777079" duration="9639000" />
       <workItem from="1685270212577" duration="1415000" />
-      <workItem from="1686050270074" duration="1927000" />
-    </task>
-    <task id="LOCAL-00003" summary="Second commit">
-      <created>1665581729524</created>
-      <option name="number" value="00003" />
-      <option name="presentableId" value="LOCAL-00003" />
-      <option name="project" value="LOCAL" />
-      <updated>1665581729524</updated>
-    </task>
-    <task id="LOCAL-00004" summary="Fourth commit">
-      <created>1665910599289</created>
-      <option name="number" value="00004" />
-      <option name="presentableId" value="LOCAL-00004" />
-      <option name="project" value="LOCAL" />
-      <updated>1665910599289</updated>
+      <workItem from="1686050270074" duration="3635000" />
     </task>
     <task id="LOCAL-00005" summary="Fifth commit">
       <created>1666186282544</created>
@@ -567,7 +553,21 @@
       <option name="project" value="LOCAL" />
       <updated>1685282473412</updated>
     </task>
-    <option name="localTasksCounter" value="52" />
+    <task id="LOCAL-00052" summary="Ex Oef, 2nd commit">
+      <created>1686054235937</created>
+      <option name="number" value="00052" />
+      <option name="presentableId" value="LOCAL-00052" />
+      <option name="project" value="LOCAL" />
+      <updated>1686054235937</updated>
+    </task>
+    <task id="LOCAL-00053" summary="Ex Oef, 2nd commit">
+      <created>1686054249618</created>
+      <option name="number" value="00053" />
+      <option name="presentableId" value="LOCAL-00053" />
+      <option name="project" value="LOCAL" />
+      <updated>1686054249618</updated>
+    </task>
+    <option name="localTasksCounter" value="54" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -586,7 +586,6 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
-    <MESSAGE value="CSS Labo 5 commit 3" />
     <MESSAGE value="CSS Labo 6 commit 1" />
     <MESSAGE value="CSS Labo 6 commit 2" />
     <MESSAGE value="CSS Labo 6 commit 3" />
@@ -611,7 +610,8 @@
     <MESSAGE value="JS Labo 10, 1st commit" />
     <MESSAGE value="JS Labo 10, 2nd commit" />
     <MESSAGE value="Ex Oef, 1st commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="Ex Oef, 1st commit" />
+    <MESSAGE value="Ex Oef, 2nd commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="Ex Oef, 2nd commit" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
