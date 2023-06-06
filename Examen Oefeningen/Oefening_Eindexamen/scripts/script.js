@@ -108,16 +108,6 @@ const saveTask = (event) => {
     restorePlusDiv();
 }
 
-const checkDate = () => {
-    let alleTaken = document.querySelectorAll(".task");
-    let listOfAllDates = [];
-    for (let i = 0; i < alleTaken.length; i++) {
-        listOfAllDates.push(alleTaken[i].getAttribute("data-date"));
-    }
-
-    let date = new Date();
-}
-
 const restorePlusDiv = () => {
     let addDiv = document.querySelector(".noPlusDiv");
     let form = document.querySelector("form");
