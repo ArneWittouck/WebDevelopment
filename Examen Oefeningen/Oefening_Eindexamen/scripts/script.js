@@ -106,7 +106,6 @@ const saveTask = (event) => {
     newTask.appendChild(doneButton);
 
     restorePlusDiv();
-    checkDate();
 }
 
 const checkDate = () => {
@@ -117,13 +116,6 @@ const checkDate = () => {
     }
 
     let date = new Date();
-
-    for (let i = 0; i < listOfAllDates.length; i++) {
-        let taskDate = new Date(listOfAllDates[i]);
-        if (taskDate.getTime() < date.getTime()) {
-            global.hiddenTasks.push(alleTaken[i]);
-        }
-    }
 }
 
 const restorePlusDiv = () => {
@@ -183,14 +175,24 @@ const sortByDate = () => {
 const hideOrShow = () => {
     if (global.hiddenTasks.length === 0) {
         hidePastTasks();
+        console.log("It works");
     } else {
         showPastTasks();
+        console.log("somethings wrong");
     }
 }
 
 const hidePastTasks = () => {
-    for (let i = 0; i < global.hiddenTasks.length; i++) {
-        global.hiddenTasks[i].remove();
+    let alleTaken = document.querySelectorAll(".task");
+    let now = new Date();
+    let listOfAllDates = [];
+    for (let i = 0; i < alleTaken.length; i++) {
+        listOfAllDates.push(alleTaken[i].getAttribute("data-date"));
+        let taskDate = new Date(listOfAllDates[i]);
+        if (taskDate.getTime() < now.getTime()) {
+            global.hiddenTasks.push(alleTaken[i]);
+            alleTaken[i].remove();
+        }
     }
 }
 
@@ -200,9 +202,7 @@ const showPastTasks = () => {
         taskContainer.appendChild(global.hiddenTasks[i]);
     }
 
-    for (let i = 0; i < global.hiddenTasks.length; i++) {
-        global.hiddenTasks.pop();
-    }
+    global.hiddenTasks = [];
 
     console.log(global.hiddenTasks);
 }
