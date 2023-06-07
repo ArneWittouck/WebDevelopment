@@ -21,12 +21,13 @@ a {
     background-color: #2B2D42;
     color: white;
     font-family: "Arial", serif;
-    padding: 15px 32px;
+    padding: 15px 15px;
     text-align: center;
     margin: 2px 4px;
     font-size: 16px;
     text-decoration: none;
     font-weight: bold;
+    width: 80px;
 }
 
 a:hover {
@@ -69,13 +70,13 @@ div {
         background-color: #2B2D42;
         color: white;
         font-family: "Arial", serif;
-        padding: 15px 32px;
+        padding: 15px 15px;
         text-align: center;
         margin: 2px 4px;
         font-size: 16px;
         text-decoration: none;
         font-weight: bold;
-        width: 65px;
+        width: 80px;
         height: 20px;
     }
 }
@@ -93,13 +94,13 @@ div {
         background-color: #2B2D42;
         color: white;
         font-family: "Arial", serif;
-        padding: 15px 32px;
+        padding: 15px 15px;
         text-align: center;
         margin: 2px 4px;
         font-size: 16px;
         text-decoration: none;
         font-weight: bold;
-        width: 65px;
+        width: 80px;
         height: 20px;
     }
 }
