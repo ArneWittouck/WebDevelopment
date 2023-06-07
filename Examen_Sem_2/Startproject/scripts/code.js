@@ -27,8 +27,11 @@ const askName = () => {
 }
 
 const startGame = () => {
-    let wordList = ["vives", "stoel", "tafel", "hotel", "olijf", "jawel", "schip"];
-    global.wordToFind = wordList[Math.floor(Math.random()*6)];
+    let wordList = ["vives", "stoel", "tafel", "hotel", "olijf", "jawel", "schip", "KAMER", "LEEUW", "PASEN" ,
+        "POLEN" ,"SCHOT" ,"STIER" ,"AARDE" ,"ACTIE" ,"AGENT" ,"AKKER" ,"ANDER" ,"ANKER" ,"ARENA" ,"ATOOM" ,
+        "BAARD" ,"BADEN" ,"BEELD" ,"BEIGE" ,"BEKER" ,"BETON"];
+
+    global.wordToFind = wordList[Math.floor(Math.random()*27)];
     console.log(global.wordToFind);
 
     let newGameButton = document.querySelector("#nieuw");
