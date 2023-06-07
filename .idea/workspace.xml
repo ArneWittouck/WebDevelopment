@@ -7,11 +7,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="08705620-3cc0-439a-8fe9-46dfecadd001" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Styles_global/Style_homepage.css" beforeDir="false" afterPath="$PROJECT_DIR$/Styles_global/Style_homepage.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-    </list>
+    <list default="true" id="08705620-3cc0-439a-8fe9-46dfecadd001" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -225,14 +221,7 @@
       <workItem from="1685270212577" duration="1415000" />
       <workItem from="1686050270074" duration="12050000" />
       <workItem from="1686130911447" duration="301000" />
-      <workItem from="1686140499178" duration="316000" />
-    </task>
-    <task id="LOCAL-00007" summary="Sixth commit">
-      <created>1666763361101</created>
-      <option name="number" value="00007" />
-      <option name="presentableId" value="LOCAL-00007" />
-      <option name="project" value="LOCAL" />
-      <updated>1666763361101</updated>
+      <workItem from="1686140499178" duration="667000" />
     </task>
     <task id="LOCAL-00008" summary="Sixth commit">
       <created>1666763671020</created>
@@ -570,7 +559,14 @@
       <option name="project" value="LOCAL" />
       <updated>1686076543217</updated>
     </task>
-    <option name="localTasksCounter" value="56" />
+    <task id="LOCAL-00056" summary="Examen sem 2, 1st commit">
+      <created>1686141032126</created>
+      <option name="number" value="00056" />
+      <option name="presentableId" value="LOCAL-00056" />
+      <option name="project" value="LOCAL" />
+      <updated>1686141032126</updated>
+    </task>
+    <option name="localTasksCounter" value="57" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -589,7 +585,6 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
-    <MESSAGE value="CSS Labo 6 commit 2" />
     <MESSAGE value="CSS Labo 6 commit 3" />
     <MESSAGE value="CSS Labo 6 commit 4" />
     <MESSAGE value="CSS Labo 6 commit 5" />
@@ -614,7 +609,8 @@
     <MESSAGE value="Ex Oef, 1st commit" />
     <MESSAGE value="Ex Oef, 2nd commit" />
     <MESSAGE value="Ex Oef, 3rd commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="Ex Oef, 3rd commit" />
+    <MESSAGE value="Examen sem 2, 1st commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="Examen sem 2, 1st commit" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
