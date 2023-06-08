@@ -11,6 +11,13 @@ const setup = () => {
 
     let nieuwSpelButton = document.querySelector("#nieuw");
     nieuwSpelButton.addEventListener("click", askName);
+
+    if (localStorage.getItem("highscores") !== null) {
+        loadFromLocalStorage();
+    }
+
+    let clearButton = document.querySelector("#clear");
+    clearButton.addEventListener("click", clearHighscores);
 }
 
 const askName = () => {
@@ -40,10 +47,17 @@ const startGame = () => {
     let inputField = document.querySelector("input");
     inputField.removeAttribute("disabled");
     inputField.focus();
+    inputField.addEventListener("keypress", checkIfEnter);
 
     let goButton = document.querySelector("#go");
     goButton.removeAttribute("disabled");
     goButton.addEventListener("click", validateGok);
+}
+
+const checkIfEnter = (event) => {
+    if (event.key === "Enter") {
+        validateGok()
+    }
 }
 
 const validateGok = () => {
@@ -144,9 +158,6 @@ const prepHighscores = () => {
 const savePlayerToHighscores = () => {
     let list = document.querySelector("ol");
     let newListItem = document.createElement("li");
-    let p1 = document.createElement("p");
-    let p2 = document.createElement("p");
-    p2.setAttribute("style", "marginTop: 0");
 
     let wordDivs = document.querySelectorAll(".word");
     let numberOfTries = wordDivs.length;
@@ -154,26 +165,23 @@ const savePlayerToHighscores = () => {
     let winDate = new Date();
     let day = winDate.getDate();
     let monthNumber = winDate.getMonth();
-    let months = ["Januari", "Februari", "Maart", "April", "Mei", "Juni", "Juli", "Augustus", "September", "Oktober", "November", "December"];
+    let months = ["Januari", "Februari", "Maart", "April", "Mei", "Juni", "Juli", "Augustus", "September", "Oktober",
+        "November", "December"];
     let month = months[monthNumber];
     let hours = winDate.getHours();
     let minutes = winDate.getMinutes();
 
     let momentOfWin = day + " " + month + " om " + hours + ":" + minutes;
 
-    let highscoreString1 = global.currentPlayerName + ": " + numberOfTries + " gok(ken)";
+    let highscoreString = global.currentPlayerName + ": " + numberOfTries + " gok(ken)" + '\n' + "[" + momentOfWin + "]";
+    console.log(highscoreString);
 
-    let highscoreTextNode1 = document.createTextNode(highscoreString1);
+    let highscoreTextNode = document.createTextNode(highscoreString);
 
-    let highscoreString2 = "[" + momentOfWin + "]";
-
-    let highscoreTextNode2 = document.createTextNode(highscoreString2);
+    newListItem.setAttribute("data-string", highscoreString);
 
     list.appendChild(newListItem);
-    p1.appendChild(highscoreTextNode1);
-    p2.appendChild(highscoreTextNode2);
-    newListItem.appendChild(p1);
-    newListItem.appendChild(p2);
+    newListItem.appendChild(highscoreTextNode);
 
     newListItem.setAttribute("data-atlGokken", numberOfTries);
 
@@ -185,18 +193,70 @@ const sortHighscores = () => {
     let gokkenArray = [];
     let newListItemsOrder = [];
     for (let i = 0; i < listItems.length; i++) {
-        gokkenArray.push(listItems[i].getAttribute("data-atlGokken"));
+        gokkenArray.push(listItems[i].getAttribute("data-atlGokken"))
     }
     gokkenArray = gokkenArray.sort();
     for (let i = 0; i < listItems.length; i++) {
         for (let j = 0; j < gokkenArray.length; j++) {
-            if (listItems[i].getAttribute("data-atlGokken") === gokkenArray[j]){
-                newListItemsOrder.push(listItems[i]);
+            if (gokkenArray[i] === listItems[j].getAttribute("data-atlGokken")){
+                newListItemsOrder.push(listItems[j]);
             }
         }
     }
 
+    for (let i = 0; i < listItems.length; i++) {
+        listItems[i].remove();
+    }
     let ol = document.querySelector("ol");
+
+    for (let i = 0; i < newListItemsOrder.length; i++) {
+        ol.appendChild(newListItemsOrder[i]);
+    }
+
+    saveToLocalStorage();
+}
+
+const saveToLocalStorage = () => {
+    let highscores = document.querySelectorAll("li");
+    let arrayToSave = [];
+    for (let i = 0; i < highscores.length; i++) {
+        let dataString = highscores[i].getAttribute("data-string");
+        arrayToSave.push(dataString);
+    }
+
+    let stringToSave = JSON.stringify(arrayToSave);
+
+    localStorage.setItem("highscores", stringToSave);
+}
+
+const loadFromLocalStorage = () => {
+    let historyString = localStorage.getItem("highscores");
+    let historyArray = JSON.parse(historyString);
+
+    prepHighscores();
+
+    let list = document.querySelector("ol");
+
+    for (let i = 0; i < historyArray.length; i++) {
+        let newListItem = document.createElement("li");
+        let highscoreTextNode = document.createTextNode(historyArray[i]);
+        newListItem.appendChild(highscoreTextNode);
+
+        let numberOfTriesLocation = historyArray[i].indexOf(": ")+2;
+        let numberOfTries = historyArray[i].slice(numberOfTriesLocation, (numberOfTriesLocation+1));
+        newListItem.setAttribute("data-atlGokken", numberOfTries);
+        newListItem.setAttribute("data-string", historyArray[i]);
+
+        list.appendChild(newListItem);
+    }
+}
+
+const clearHighscores = () => {
+    let highscores = document.querySelectorAll("li");
+    for (let i = 0; i < highscores.length; i++) {
+        highscores[i].remove();
+    }
+    localStorage.clear();
 }
 
 
