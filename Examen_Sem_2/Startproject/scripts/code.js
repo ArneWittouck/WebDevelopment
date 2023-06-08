@@ -183,7 +183,7 @@ const savePlayerToHighscores = () => {
     list.appendChild(newListItem);
     newListItem.appendChild(highscoreTextNode);
 
-    newListItem.setAttribute("data-atlGokken", numberOfTries);
+    newListItem.setAttribute("data-atlGokken", numberOfTries + "");
 
     sortHighscores();
 }
