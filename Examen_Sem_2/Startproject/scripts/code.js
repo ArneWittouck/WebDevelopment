@@ -80,6 +80,7 @@ const saveGokToGokken = () => {
         let letterTextNode = document.createTextNode(letter);
         let letterDiv = document.createElement("div");
         letterDiv.appendChild(letterTextNode);
+        letterDiv.addEventListener("click", help);
         wordDiv.appendChild(letterDiv);
     }
 
@@ -113,6 +114,38 @@ const colorLettersOfNewWord = () => {
         }
     }
     checkIfWon();
+}
+
+const help = (event) => {
+    let letterDiv = event.target;
+    event.stopPropagation();
+    let helpP = document.querySelector(".help");
+    let letter = letterDiv.firstChild.nodeValue;
+
+    if (helpP.firstChild !== null) {
+        helpP.firstChild.remove();
+    }
+
+    let divClass = letterDiv.getAttribute("class");
+    if (divClass === "juist") {
+        let helpTextNode = document.createTextNode("De letter " + letter + " staat op de juiste plaats.");
+        helpP.appendChild(helpTextNode);
+    } else if (divClass === "bevat") {
+        let helpTextNode = document.createTextNode("De letter " + letter + " komt voor, maar staat op" +
+            " de verkeerde plaats.");
+        helpP.appendChild(helpTextNode);
+    } else if (divClass === "fout") {
+        let helpTextNode = document.createTextNode("De letter " + letter + " komt niet voor");
+        helpP.appendChild(helpTextNode);
+    }
+    helpP.setAttribute("class", "help");
+
+    setTimeout(hideHelp, 2500);
+}
+
+const hideHelp = () => {
+    let helpP = document.querySelector(".help");
+    helpP.setAttribute("class", "help hidden");
 }
 
 const checkIfWon = () => {
