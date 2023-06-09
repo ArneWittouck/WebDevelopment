@@ -224,13 +224,7 @@
       <workItem from="1686140499178" duration="8594000" />
       <workItem from="1686213626075" duration="1604000" />
       <workItem from="1686308605806" duration="1417000" />
-    </task>
-    <task id="LOCAL-00016" summary="Gastles Opdracht commit 2">
-      <created>1669154361597</created>
-      <option name="number" value="00016" />
-      <option name="presentableId" value="LOCAL-00016" />
-      <option name="project" value="LOCAL" />
-      <updated>1669154361597</updated>
+      <workItem from="1686310224096" duration="113000" />
     </task>
     <task id="LOCAL-00017" summary="Gastles Opdracht commit 3">
       <created>1669186565568</created>
@@ -568,7 +562,14 @@
       <option name="project" value="LOCAL" />
       <updated>1686310027798</updated>
     </task>
-    <option name="localTasksCounter" value="65" />
+    <task id="LOCAL-00065" summary="For fun">
+      <created>1686310312302</created>
+      <option name="number" value="00065" />
+      <option name="presentableId" value="LOCAL-00065" />
+      <option name="project" value="LOCAL" />
+      <updated>1686310312303</updated>
+    </task>
+    <option name="localTasksCounter" value="66" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -587,7 +588,6 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
-    <MESSAGE value="CSS Labo 7 commit 1" />
     <MESSAGE value="CSS Labo 7 commit 2" />
     <MESSAGE value="CSS Labo 7 commit 3" />
     <MESSAGE value="Examen oefeningen commit 1" />
@@ -612,7 +612,8 @@
     <MESSAGE value="Examen sem 2, 2nd commit" />
     <MESSAGE value="Examen sem 2, 3rd commit" />
     <MESSAGE value="Examen sem 2, extra's commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="Examen sem 2, extra's commit" />
+    <MESSAGE value="For fun" />
+    <option name="LAST_COMMIT_MESSAGE" value="For fun" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
