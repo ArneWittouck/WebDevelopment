@@ -207,7 +207,6 @@ const savePlayerToHighscores = () => {
     let momentOfWin = day + " " + month + " om " + hours + ":" + minutes;
 
     let highscoreString = global.currentPlayerName + ": " + numberOfTries + " gok(ken)" + '\n' + "[" + momentOfWin + "]";
-    console.log(highscoreString);
 
     let highscoreTextNode = document.createTextNode(highscoreString);
 
@@ -228,7 +227,7 @@ const sortHighscores = () => {
     for (let i = 0; i < listItems.length; i++) {
         gokkenArray.push(listItems[i].getAttribute("data-atlGokken"))
     }
-    gokkenArray = gokkenArray.sort();
+    gokkenArray = gokkenArray.sort(vergelijk);
     for (let i = 0; i < listItems.length; i++) {
         for (let j = 0; j < gokkenArray.length; j++) {
             if (gokkenArray[i] === listItems[j].getAttribute("data-atlGokken")){
@@ -247,6 +246,10 @@ const sortHighscores = () => {
     }
 
     saveToLocalStorage();
+}
+
+const vergelijk = (a, b) => {
+    return a-b;
 }
 
 const saveToLocalStorage = () => {
@@ -276,7 +279,8 @@ const loadFromLocalStorage = () => {
         newListItem.appendChild(highscoreTextNode);
 
         let numberOfTriesLocation = historyArray[i].indexOf(": ")+2;
-        let numberOfTries = historyArray[i].slice(numberOfTriesLocation, (numberOfTriesLocation+1));
+        let endOfNumberOfTriesLocation = historyArray[i].indexOf(" gok(ken)");
+        let numberOfTries = historyArray[i].slice(numberOfTriesLocation, (endOfNumberOfTriesLocation));
         newListItem.setAttribute("data-atlGokken", numberOfTries);
         newListItem.setAttribute("data-string", historyArray[i]);
 
